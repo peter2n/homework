@@ -1,0 +1,11 @@
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqGroupKeyOrderby.csprojAssemblyReference.cache
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqGroupKeyOrderby.csproj.CoreCompileInputs.cache
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqGroupKeyOrderby.AssemblyInfoInputs.cache
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqGroupKeyOrderby.AssemblyInfo.cs
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\bin\Debug\netcoreapp2.1\LinqGroupKeyOrderby.deps.json
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\bin\Debug\netcoreapp2.1\LinqGroupKeyOrderby.runtimeconfig.json
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\bin\Debug\netcoreapp2.1\LinqGroupKeyOrderby.runtimeconfig.dev.json
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\bin\Debug\netcoreapp2.1\LinqGroupKeyOrderby.dll
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\bin\Debug\netcoreapp2.1\LinqGroupKeyOrderby.pdb
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqGroupKeyOrderby.dll
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqGroupKeyOrderby.pdb

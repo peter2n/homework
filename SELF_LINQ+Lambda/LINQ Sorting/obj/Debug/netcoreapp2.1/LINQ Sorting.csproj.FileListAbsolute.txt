@@ -1,0 +1,11 @@
+D:\REPO\LinqTest\LINQ Sorting\bin\Debug\netcoreapp2.1\LINQ Sorting.deps.json
+D:\REPO\LinqTest\LINQ Sorting\bin\Debug\netcoreapp2.1\LINQ Sorting.runtimeconfig.json
+D:\REPO\LinqTest\LINQ Sorting\bin\Debug\netcoreapp2.1\LINQ Sorting.runtimeconfig.dev.json
+D:\REPO\LinqTest\LINQ Sorting\bin\Debug\netcoreapp2.1\LINQ Sorting.dll
+D:\REPO\LinqTest\LINQ Sorting\bin\Debug\netcoreapp2.1\LINQ Sorting.pdb
+D:\REPO\LinqTest\LINQ Sorting\obj\Debug\netcoreapp2.1\LINQ Sorting.csproj.CoreCompileInputs.cache
+D:\REPO\LinqTest\LINQ Sorting\obj\Debug\netcoreapp2.1\LINQ Sorting.AssemblyInfoInputs.cache
+D:\REPO\LinqTest\LINQ Sorting\obj\Debug\netcoreapp2.1\LINQ Sorting.AssemblyInfo.cs
+D:\REPO\LinqTest\LINQ Sorting\obj\Debug\netcoreapp2.1\LINQ Sorting.dll
+D:\REPO\LinqTest\LINQ Sorting\obj\Debug\netcoreapp2.1\LINQ Sorting.pdb
+D:\REPO\LinqTest\LINQ Sorting\obj\Debug\netcoreapp2.1\LINQ Sorting.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqKey.csprojAssemblyReference.cache
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqKey.csproj.CoreCompileInputs.cache
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqKey.AssemblyInfoInputs.cache
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqKey.AssemblyInfo.cs
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\bin\Debug\netcoreapp2.1\LinqKey.deps.json
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\bin\Debug\netcoreapp2.1\LinqKey.runtimeconfig.json
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\bin\Debug\netcoreapp2.1\LinqKey.runtimeconfig.dev.json
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\bin\Debug\netcoreapp2.1\LinqKey.dll
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\bin\Debug\netcoreapp2.1\LinqKey.pdb
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqKey.dll
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqKey\obj\Debug\netcoreapp2.1\LinqKey.pdb

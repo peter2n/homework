@@ -1,0 +1,17 @@
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\bin\Debug\INK.exe.config
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\bin\Debug\INK.exe
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\bin\Debug\INK.pdb
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\bin\Debug\PdfSharp.Charting.dll
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\bin\Debug\PdfSharp.dll
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\bin\Debug\PdfSharp.xml
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\bin\Debug\PdfSharp.Charting.xml
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\bin\Debug\de\PdfSharp.resources.dll
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\obj\Debug\INK.csprojAssemblyReference.cache
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\obj\Debug\INK.Form1.resources
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\obj\Debug\INK.Properties.Resources.resources
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\obj\Debug\INK.csproj.GenerateResource.cache
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\obj\Debug\INK.csproj.CoreCompileInputs.cache
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\obj\Debug\INK.csproj.CopyComplete
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\obj\Debug\INK.exe
+D:\REPO\DesktopWinForm\PdfInk\PdfInk\INK\obj\Debug\INK.pdb

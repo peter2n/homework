@@ -1,0 +1,9 @@
+D:\PeterProj\sorce\repos\LetterToASCII\LetterToASCII\bin\Release\LetterToASCII.exe.config
+D:\PeterProj\sorce\repos\LetterToASCII\LetterToASCII\bin\Release\LetterToASCII.exe
+D:\PeterProj\sorce\repos\LetterToASCII\LetterToASCII\bin\Release\LetterToASCII.pdb
+D:\PeterProj\sorce\repos\LetterToASCII\LetterToASCII\obj\Release\LetterToASCII.Form1.resources
+D:\PeterProj\sorce\repos\LetterToASCII\LetterToASCII\obj\Release\LetterToASCII.Properties.Resources.resources
+D:\PeterProj\sorce\repos\LetterToASCII\LetterToASCII\obj\Release\LetterToASCII.csproj.GenerateResource.cache
+D:\PeterProj\sorce\repos\LetterToASCII\LetterToASCII\obj\Release\LetterToASCII.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\LetterToASCII\LetterToASCII\obj\Release\LetterToASCII.exe
+D:\PeterProj\sorce\repos\LetterToASCII\LetterToASCII\obj\Release\LetterToASCII.pdb

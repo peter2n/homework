@@ -1,0 +1,11 @@
+D:\TORTOISE\HOMEWORK\LinqNumerical\bin\Debug\netcoreapp2.1\LinqNumerical.deps.json
+D:\TORTOISE\HOMEWORK\LinqNumerical\bin\Debug\netcoreapp2.1\LinqNumerical.runtimeconfig.json
+D:\TORTOISE\HOMEWORK\LinqNumerical\bin\Debug\netcoreapp2.1\LinqNumerical.runtimeconfig.dev.json
+D:\TORTOISE\HOMEWORK\LinqNumerical\bin\Debug\netcoreapp2.1\LinqNumerical.dll
+D:\TORTOISE\HOMEWORK\LinqNumerical\bin\Debug\netcoreapp2.1\LinqNumerical.pdb
+D:\TORTOISE\HOMEWORK\LinqNumerical\obj\Debug\netcoreapp2.1\LinqNumerical.csprojAssemblyReference.cache
+D:\TORTOISE\HOMEWORK\LinqNumerical\obj\Debug\netcoreapp2.1\LinqNumerical.csproj.CoreCompileInputs.cache
+D:\TORTOISE\HOMEWORK\LinqNumerical\obj\Debug\netcoreapp2.1\LinqNumerical.AssemblyInfoInputs.cache
+D:\TORTOISE\HOMEWORK\LinqNumerical\obj\Debug\netcoreapp2.1\LinqNumerical.AssemblyInfo.cs
+D:\TORTOISE\HOMEWORK\LinqNumerical\obj\Debug\netcoreapp2.1\LinqNumerical.dll
+D:\TORTOISE\HOMEWORK\LinqNumerical\obj\Debug\netcoreapp2.1\LinqNumerical.pdb

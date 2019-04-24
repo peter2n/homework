@@ -1,0 +1,11 @@
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqMethods\bin\Debug\netcoreapp2.1\LinqMethods.deps.json
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqMethods\bin\Debug\netcoreapp2.1\LinqMethods.runtimeconfig.json
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqMethods\bin\Debug\netcoreapp2.1\LinqMethods.runtimeconfig.dev.json
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqMethods\bin\Debug\netcoreapp2.1\LinqMethods.dll
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqMethods\bin\Debug\netcoreapp2.1\LinqMethods.pdb
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqMethods\obj\Debug\netcoreapp2.1\LinqMethods.csprojAssemblyReference.cache
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqMethods\obj\Debug\netcoreapp2.1\LinqMethods.csproj.CoreCompileInputs.cache
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqMethods\obj\Debug\netcoreapp2.1\LinqMethods.AssemblyInfoInputs.cache
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqMethods\obj\Debug\netcoreapp2.1\LinqMethods.AssemblyInfo.cs
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqMethods\obj\Debug\netcoreapp2.1\LinqMethods.dll
+D:\TORTOISE\HOMEWORK\SELF_LINQ+Lambda\LinqMethods\obj\Debug\netcoreapp2.1\LinqMethods.pdb
