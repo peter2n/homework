@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TORTOISE\\homework\\C#F\\01_Basic_Syntax\\LAB_2. Passed\\LAB_2. Passed.csproj": {}
+  },
+  "projects": {
+    "D:\\TORTOISE\\homework\\C#F\\01_Basic_Syntax\\LAB_2. Passed\\LAB_2. Passed.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TORTOISE\\homework\\C#F\\01_Basic_Syntax\\LAB_2. Passed\\LAB_2. Passed.csproj",
+        "projectName": "LAB_2. Passed",
+        "projectPath": "D:\\TORTOISE\\homework\\C#F\\01_Basic_Syntax\\LAB_2. Passed\\LAB_2. Passed.csproj",
+        "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
+        "outputPath": "D:\\TORTOISE\\homework\\C#F\\01_Basic_Syntax\\LAB_2. Passed\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

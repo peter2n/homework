@@ -1,0 +1,10 @@
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_4. Back in 30 Minutes\bin\Debug\netcoreapp2.2\LAB_4. Back in 30 Minutes.deps.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_4. Back in 30 Minutes\bin\Debug\netcoreapp2.2\LAB_4. Back in 30 Minutes.runtimeconfig.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_4. Back in 30 Minutes\bin\Debug\netcoreapp2.2\LAB_4. Back in 30 Minutes.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_4. Back in 30 Minutes\bin\Debug\netcoreapp2.2\LAB_4. Back in 30 Minutes.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_4. Back in 30 Minutes\bin\Debug\netcoreapp2.2\LAB_4. Back in 30 Minutes.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_4. Back in 30 Minutes\obj\Debug\netcoreapp2.2\LAB_4. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_4. Back in 30 Minutes\obj\Debug\netcoreapp2.2\LAB_4. Back in 30 Minutes.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_4. Back in 30 Minutes\obj\Debug\netcoreapp2.2\LAB_4. Back in 30 Minutes.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_4. Back in 30 Minutes\obj\Debug\netcoreapp2.2\LAB_4. Back in 30 Minutes.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_4. Back in 30 Minutes\obj\Debug\netcoreapp2.2\LAB_4. Back in 30 Minutes.pdb
