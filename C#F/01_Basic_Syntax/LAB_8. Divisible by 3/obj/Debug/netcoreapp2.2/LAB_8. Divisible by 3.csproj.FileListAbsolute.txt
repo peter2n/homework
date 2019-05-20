@@ -1,0 +1,10 @@
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_8. Divisible by 3\obj\Debug\netcoreapp2.2\LAB_8. Divisible by 3.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_8. Divisible by 3\obj\Debug\netcoreapp2.2\LAB_8. Divisible by 3.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_8. Divisible by 3\obj\Debug\netcoreapp2.2\LAB_8. Divisible by 3.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_8. Divisible by 3\bin\Debug\netcoreapp2.2\LAB_8. Divisible by 3.deps.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_8. Divisible by 3\bin\Debug\netcoreapp2.2\LAB_8. Divisible by 3.runtimeconfig.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_8. Divisible by 3\bin\Debug\netcoreapp2.2\LAB_8. Divisible by 3.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_8. Divisible by 3\bin\Debug\netcoreapp2.2\LAB_8. Divisible by 3.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_8. Divisible by 3\bin\Debug\netcoreapp2.2\LAB_8. Divisible by 3.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_8. Divisible by 3\obj\Debug\netcoreapp2.2\LAB_8. Divisible by 3.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_8. Divisible by 3\obj\Debug\netcoreapp2.2\LAB_8. Divisible by 3.pdb

@@ -1,0 +1,10 @@
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_6. Foreign Languages\bin\Debug\netcoreapp2.2\LAB_6. Foreign Languages.deps.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_6. Foreign Languages\bin\Debug\netcoreapp2.2\LAB_6. Foreign Languages.runtimeconfig.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_6. Foreign Languages\bin\Debug\netcoreapp2.2\LAB_6. Foreign Languages.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_6. Foreign Languages\bin\Debug\netcoreapp2.2\LAB_6. Foreign Languages.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_6. Foreign Languages\bin\Debug\netcoreapp2.2\LAB_6. Foreign Languages.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_6. Foreign Languages\obj\Debug\netcoreapp2.2\LAB_6. Foreign Languages.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_6. Foreign Languages\obj\Debug\netcoreapp2.2\LAB_6. Foreign Languages.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_6. Foreign Languages\obj\Debug\netcoreapp2.2\LAB_6. Foreign Languages.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_6. Foreign Languages\obj\Debug\netcoreapp2.2\LAB_6. Foreign Languages.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_6. Foreign Languages\obj\Debug\netcoreapp2.2\LAB_6. Foreign Languages.pdb

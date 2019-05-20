@@ -1,0 +1,10 @@
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_10.  Multiplication Table\bin\Debug\netcoreapp2.2\LAB_10.  Multiplication Table.deps.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_10.  Multiplication Table\bin\Debug\netcoreapp2.2\LAB_10.  Multiplication Table.runtimeconfig.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_10.  Multiplication Table\bin\Debug\netcoreapp2.2\LAB_10.  Multiplication Table.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_10.  Multiplication Table\bin\Debug\netcoreapp2.2\LAB_10.  Multiplication Table.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_10.  Multiplication Table\bin\Debug\netcoreapp2.2\LAB_10.  Multiplication Table.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_10.  Multiplication Table\obj\Debug\netcoreapp2.2\LAB_10.  Multiplication Table.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_10.  Multiplication Table\obj\Debug\netcoreapp2.2\LAB_10.  Multiplication Table.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_10.  Multiplication Table\obj\Debug\netcoreapp2.2\LAB_10.  Multiplication Table.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_10.  Multiplication Table\obj\Debug\netcoreapp2.2\LAB_10.  Multiplication Table.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_10.  Multiplication Table\obj\Debug\netcoreapp2.2\LAB_10.  Multiplication Table.pdb

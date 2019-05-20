@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_7. Theatre Promotions\bin\Debug\netcoreapp2.2\LAB_7. Theatre Promotions.deps.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_7. Theatre Promotions\bin\Debug\netcoreapp2.2\LAB_7. Theatre Promotions.runtimeconfig.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_7. Theatre Promotions\bin\Debug\netcoreapp2.2\LAB_7. Theatre Promotions.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_7. Theatre Promotions\bin\Debug\netcoreapp2.2\LAB_7. Theatre Promotions.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_7. Theatre Promotions\bin\Debug\netcoreapp2.2\LAB_7. Theatre Promotions.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_7. Theatre Promotions\obj\Debug\netcoreapp2.2\LAB_7. Theatre Promotions.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_7. Theatre Promotions\obj\Debug\netcoreapp2.2\LAB_7. Theatre Promotions.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_7. Theatre Promotions\obj\Debug\netcoreapp2.2\LAB_7. Theatre Promotions.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_7. Theatre Promotions\obj\Debug\netcoreapp2.2\LAB_7. Theatre Promotions.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_7. Theatre Promotions\obj\Debug\netcoreapp2.2\LAB_7. Theatre Promotions.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_7. Theatre Promotions\obj\Debug\netcoreapp2.2\LAB_7. Theatre Promotions.pdb

@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_13. Holidays Between Two Dates\bin\Debug\netcoreapp2.2\LAB_13. Holidays Between Two Dates.deps.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_13. Holidays Between Two Dates\bin\Debug\netcoreapp2.2\LAB_13. Holidays Between Two Dates.runtimeconfig.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_13. Holidays Between Two Dates\bin\Debug\netcoreapp2.2\LAB_13. Holidays Between Two Dates.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_13. Holidays Between Two Dates\bin\Debug\netcoreapp2.2\LAB_13. Holidays Between Two Dates.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_13. Holidays Between Two Dates\bin\Debug\netcoreapp2.2\LAB_13. Holidays Between Two Dates.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_13. Holidays Between Two Dates\obj\Debug\netcoreapp2.2\LAB_13. Holidays Between Two Dates.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_13. Holidays Between Two Dates\obj\Debug\netcoreapp2.2\LAB_13. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_13. Holidays Between Two Dates\obj\Debug\netcoreapp2.2\LAB_13. Holidays Between Two Dates.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_13. Holidays Between Two Dates\obj\Debug\netcoreapp2.2\LAB_13. Holidays Between Two Dates.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_13. Holidays Between Two Dates\obj\Debug\netcoreapp2.2\LAB_13. Holidays Between Two Dates.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_13. Holidays Between Two Dates\obj\Debug\netcoreapp2.2\LAB_13. Holidays Between Two Dates.pdb

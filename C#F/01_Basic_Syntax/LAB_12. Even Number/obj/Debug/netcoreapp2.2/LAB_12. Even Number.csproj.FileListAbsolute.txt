@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_12. Even Number\bin\Debug\netcoreapp2.2\LAB_12. Even Number.deps.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_12. Even Number\bin\Debug\netcoreapp2.2\LAB_12. Even Number.runtimeconfig.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_12. Even Number\bin\Debug\netcoreapp2.2\LAB_12. Even Number.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_12. Even Number\bin\Debug\netcoreapp2.2\LAB_12. Even Number.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_12. Even Number\bin\Debug\netcoreapp2.2\LAB_12. Even Number.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_12. Even Number\obj\Debug\netcoreapp2.2\LAB_12. Even Number.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_12. Even Number\obj\Debug\netcoreapp2.2\LAB_12. Even Number.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_12. Even Number\obj\Debug\netcoreapp2.2\LAB_12. Even Number.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_12. Even Number\obj\Debug\netcoreapp2.2\LAB_12. Even Number.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_12. Even Number\obj\Debug\netcoreapp2.2\LAB_12. Even Number.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_12. Even Number\obj\Debug\netcoreapp2.2\LAB_12. Even Number.csprojAssemblyReference.cache
