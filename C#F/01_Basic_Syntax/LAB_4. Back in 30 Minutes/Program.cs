@@ -11,7 +11,7 @@ namespace LAB_4._Back_in_30_Minutes
             int hoursAfter = minutesPlus / 60;
             int minutesAfter = minutesPlus % 60;
 
-            Console.WriteLine($"{hoursAfter}:{minutesAfter:d2}");
+            Console.WriteLine($"{hoursAfter%24}:{minutesAfter:d2}");
         }
     }
 }
