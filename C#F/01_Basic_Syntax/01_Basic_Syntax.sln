@@ -13,21 +13,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_4. Back in 30 Minutes",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_5. Month Printer", "LAB_5. Month Printer\LAB_5. Month Printer.csproj", "{B787CD76-9F2B-4FA7-A2DA-DAB2E0E0D041}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB_6. Foreign Languages", "LAB_6. Foreign Languages\LAB_6. Foreign Languages.csproj", "{B294B60B-F3D0-4C19-AF0D-823DE1C92FA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_6. Foreign Languages", "LAB_6. Foreign Languages\LAB_6. Foreign Languages.csproj", "{B294B60B-F3D0-4C19-AF0D-823DE1C92FA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB_7. Theatre Promotions", "LAB_7. Theatre Promotions\LAB_7. Theatre Promotions.csproj", "{12887808-AF9E-493F-87BC-DD3B4DA88C85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_7. Theatre Promotions", "LAB_7. Theatre Promotions\LAB_7. Theatre Promotions.csproj", "{12887808-AF9E-493F-87BC-DD3B4DA88C85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB_8. Divisible by 3", "LAB_8. Divisible by 3\LAB_8. Divisible by 3.csproj", "{E23DAD62-942E-4526-B298-7651395B784F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_8. Divisible by 3", "LAB_8. Divisible by 3\LAB_8. Divisible by 3.csproj", "{E23DAD62-942E-4526-B298-7651395B784F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB_9. Sum of Odd Numbers", "LAB_9. Sum of Odd Numbers\LAB_9. Sum of Odd Numbers.csproj", "{ABBF4D3E-7E89-4855-967D-37DD7094ACF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_9. Sum of Odd Numbers", "LAB_9. Sum of Odd Numbers\LAB_9. Sum of Odd Numbers.csproj", "{ABBF4D3E-7E89-4855-967D-37DD7094ACF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB_10.  Multiplication Table", "LAB_10.  Multiplication Table\LAB_10.  Multiplication Table.csproj", "{4D49F9BB-F351-43BE-8C23-4B7DA13D2184}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_10.  Multiplication Table", "LAB_10.  Multiplication Table\LAB_10.  Multiplication Table.csproj", "{4D49F9BB-F351-43BE-8C23-4B7DA13D2184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB_11. Multiplication Table 2.0", "LAB_11. Multiplication Table 2.0\LAB_11. Multiplication Table 2.0.csproj", "{3FF309C3-FFA0-486B-9CA5-9434B42D12D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_11. Multiplication Table 2.0", "LAB_11. Multiplication Table 2.0\LAB_11. Multiplication Table 2.0.csproj", "{3FF309C3-FFA0-486B-9CA5-9434B42D12D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB_12. Even Number", "LAB_12. Even Number\LAB_12. Even Number.csproj", "{6A8C7363-F130-477D-9062-6856B0558F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_12. Even Number", "LAB_12. Even Number\LAB_12. Even Number.csproj", "{6A8C7363-F130-477D-9062-6856B0558F7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB_13. Holidays Between Two Dates", "LAB_13. Holidays Between Two Dates\LAB_13. Holidays Between Two Dates.csproj", "{B247F46D-593C-48DD-9B0A-6877A3E129FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_13. Holidays Between Two Dates", "LAB_13. Holidays Between Two Dates\LAB_13. Holidays Between Two Dates.csproj", "{B247F46D-593C-48DD-9B0A-6877A3E129FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX_1. Ages", "EX_1. Ages\EX_1. Ages.csproj", "{883D9980-9F1C-4384-8041-CCF70F53AC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX_2. Divison", "EX_2. Divison\EX_2. Divison.csproj", "{7721480E-5414-4C70-9696-DDE8A7C2C0B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX_2._Divison_Array", "EX_2._Divison_Array\EX_2._Divison_Array.csproj", "{B0D290A7-2178-4275-B187-B9A9C402EE8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX_3. Vacation", "EX_3. Vacation\EX_3. Vacation.csproj", "{6C7D7733-6249-4D02-AF18-D1EC622D0217}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +95,22 @@ Global
 		{B247F46D-593C-48DD-9B0A-6877A3E129FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B247F46D-593C-48DD-9B0A-6877A3E129FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B247F46D-593C-48DD-9B0A-6877A3E129FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883D9980-9F1C-4384-8041-CCF70F53AC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883D9980-9F1C-4384-8041-CCF70F53AC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883D9980-9F1C-4384-8041-CCF70F53AC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883D9980-9F1C-4384-8041-CCF70F53AC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7721480E-5414-4C70-9696-DDE8A7C2C0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7721480E-5414-4C70-9696-DDE8A7C2C0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7721480E-5414-4C70-9696-DDE8A7C2C0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7721480E-5414-4C70-9696-DDE8A7C2C0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D290A7-2178-4275-B187-B9A9C402EE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D290A7-2178-4275-B187-B9A9C402EE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D290A7-2178-4275-B187-B9A9C402EE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D290A7-2178-4275-B187-B9A9C402EE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C7D7733-6249-4D02-AF18-D1EC622D0217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7D7733-6249-4D02-AF18-D1EC622D0217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7D7733-6249-4D02-AF18-D1EC622D0217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7D7733-6249-4D02-AF18-D1EC622D0217}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
