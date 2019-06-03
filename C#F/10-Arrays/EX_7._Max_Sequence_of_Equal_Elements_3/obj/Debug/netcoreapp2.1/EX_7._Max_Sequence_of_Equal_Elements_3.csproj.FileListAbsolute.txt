@@ -1,0 +1,10 @@
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_7._Max_Sequence_of_Equal_Elements_3\bin\Debug\netcoreapp2.1\EX_7._Max_Sequence_of_Equal_Elements_3.deps.json
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_7._Max_Sequence_of_Equal_Elements_3\bin\Debug\netcoreapp2.1\EX_7._Max_Sequence_of_Equal_Elements_3.runtimeconfig.json
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_7._Max_Sequence_of_Equal_Elements_3\bin\Debug\netcoreapp2.1\EX_7._Max_Sequence_of_Equal_Elements_3.runtimeconfig.dev.json
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_7._Max_Sequence_of_Equal_Elements_3\bin\Debug\netcoreapp2.1\EX_7._Max_Sequence_of_Equal_Elements_3.dll
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_7._Max_Sequence_of_Equal_Elements_3\bin\Debug\netcoreapp2.1\EX_7._Max_Sequence_of_Equal_Elements_3.pdb
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_7._Max_Sequence_of_Equal_Elements_3\obj\Debug\netcoreapp2.1\EX_7._Max_Sequence_of_Equal_Elements_3.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_7._Max_Sequence_of_Equal_Elements_3\obj\Debug\netcoreapp2.1\EX_7._Max_Sequence_of_Equal_Elements_3.AssemblyInfoInputs.cache
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_7._Max_Sequence_of_Equal_Elements_3\obj\Debug\netcoreapp2.1\EX_7._Max_Sequence_of_Equal_Elements_3.AssemblyInfo.cs
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_7._Max_Sequence_of_Equal_Elements_3\obj\Debug\netcoreapp2.1\EX_7._Max_Sequence_of_Equal_Elements_3.dll
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_7._Max_Sequence_of_Equal_Elements_3\obj\Debug\netcoreapp2.1\EX_7._Max_Sequence_of_Equal_Elements_3.pdb

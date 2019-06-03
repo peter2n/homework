@@ -1,0 +1,11 @@
+D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\bin\Debug\netcoreapp2.1\EX_1. Train.deps.json
+D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\bin\Debug\netcoreapp2.1\EX_1. Train.runtimeconfig.json
+D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\bin\Debug\netcoreapp2.1\EX_1. Train.runtimeconfig.dev.json
+D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\bin\Debug\netcoreapp2.1\EX_1. Train.dll
+D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\bin\Debug\netcoreapp2.1\EX_1. Train.pdb
+D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.csprojAssemblyReference.cache
+D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.AssemblyInfoInputs.cache
+D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.AssemblyInfo.cs
+D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.dll
+D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.pdb

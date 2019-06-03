@@ -1,0 +1,7 @@
+D:\PeterProj\sorce\repos\Tech-10-EX\STAR-9. Kamino Factory\bin\Debug\STAR_9.Kamino_Factory.exe.config
+D:\PeterProj\sorce\repos\Tech-10-EX\STAR-9. Kamino Factory\bin\Debug\STAR_9.Kamino_Factory.exe
+D:\PeterProj\sorce\repos\Tech-10-EX\STAR-9. Kamino Factory\bin\Debug\STAR_9.Kamino_Factory.pdb
+D:\PeterProj\sorce\repos\Tech-10-EX\STAR-9. Kamino Factory\obj\Debug\STAR-9. Kamino Factory.csprojAssemblyReference.cache
+D:\PeterProj\sorce\repos\Tech-10-EX\STAR-9. Kamino Factory\obj\Debug\STAR-9. Kamino Factory.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\Tech-10-EX\STAR-9. Kamino Factory\obj\Debug\STAR_9.Kamino_Factory.exe
+D:\PeterProj\sorce\repos\Tech-10-EX\STAR-9. Kamino Factory\obj\Debug\STAR_9.Kamino_Factory.pdb

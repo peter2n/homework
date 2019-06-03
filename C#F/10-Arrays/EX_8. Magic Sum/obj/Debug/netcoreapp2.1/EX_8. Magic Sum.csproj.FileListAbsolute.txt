@@ -1,0 +1,11 @@
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\bin\Debug\netcoreapp2.1\EX_8. Magic Sum.deps.json
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\bin\Debug\netcoreapp2.1\EX_8. Magic Sum.runtimeconfig.json
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\bin\Debug\netcoreapp2.1\EX_8. Magic Sum.runtimeconfig.dev.json
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\bin\Debug\netcoreapp2.1\EX_8. Magic Sum.dll
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\bin\Debug\netcoreapp2.1\EX_8. Magic Sum.pdb
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.csprojAssemblyReference.cache
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.AssemblyInfoInputs.cache
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.AssemblyInfo.cs
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.dll
+D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.pdb
