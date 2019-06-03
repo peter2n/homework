@@ -1,0 +1,6 @@
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\4. Sum of Chars\bin\Debug\_4.Sum_of_Chars.exe.config
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\4. Sum of Chars\bin\Debug\_4.Sum_of_Chars.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\4. Sum of Chars\bin\Debug\_4.Sum_of_Chars.pdb
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\4. Sum of Chars\obj\Debug\4. Sum of Chars.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\4. Sum of Chars\obj\Debug\_4.Sum_of_Chars.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\4. Sum of Chars\obj\Debug\_4.Sum_of_Chars.pdb

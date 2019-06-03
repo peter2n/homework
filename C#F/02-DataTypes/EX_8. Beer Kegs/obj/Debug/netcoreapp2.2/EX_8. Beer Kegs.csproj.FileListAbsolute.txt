@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\02-DataTypes\EX_8. Beer Kegs\bin\Debug\netcoreapp2.2\EX_8. Beer Kegs.deps.json
+D:\TORTOISE\homework\C#F\02-DataTypes\EX_8. Beer Kegs\bin\Debug\netcoreapp2.2\EX_8. Beer Kegs.runtimeconfig.json
+D:\TORTOISE\homework\C#F\02-DataTypes\EX_8. Beer Kegs\bin\Debug\netcoreapp2.2\EX_8. Beer Kegs.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\02-DataTypes\EX_8. Beer Kegs\bin\Debug\netcoreapp2.2\EX_8. Beer Kegs.dll
+D:\TORTOISE\homework\C#F\02-DataTypes\EX_8. Beer Kegs\bin\Debug\netcoreapp2.2\EX_8. Beer Kegs.pdb
+D:\TORTOISE\homework\C#F\02-DataTypes\EX_8. Beer Kegs\obj\Debug\netcoreapp2.2\EX_8. Beer Kegs.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\02-DataTypes\EX_8. Beer Kegs\obj\Debug\netcoreapp2.2\EX_8. Beer Kegs.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\02-DataTypes\EX_8. Beer Kegs\obj\Debug\netcoreapp2.2\EX_8. Beer Kegs.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\02-DataTypes\EX_8. Beer Kegs\obj\Debug\netcoreapp2.2\EX_8. Beer Kegs.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\02-DataTypes\EX_8. Beer Kegs\obj\Debug\netcoreapp2.2\EX_8. Beer Kegs.dll
+D:\TORTOISE\homework\C#F\02-DataTypes\EX_8. Beer Kegs\obj\Debug\netcoreapp2.2\EX_8. Beer Kegs.pdb

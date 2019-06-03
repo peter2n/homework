@@ -1,0 +1,7 @@
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\2. Sum Digits\bin\Debug\_2.Sum_Digits.exe.config
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\2. Sum Digits\bin\Debug\_2.Sum_Digits.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\2. Sum Digits\bin\Debug\_2.Sum_Digits.pdb
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\2. Sum Digits\obj\Debug\2. Sum Digits.csprojAssemblyReference.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\2. Sum Digits\obj\Debug\2. Sum Digits.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\2. Sum Digits\obj\Debug\_2.Sum_Digits.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\2. Sum Digits\obj\Debug\_2.Sum_Digits.pdb

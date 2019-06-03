@@ -1,0 +1,14 @@
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\Tech-07-1. Integer Operations\bin\Debug\Tech_07_1.Integer_Operations.exe.config
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\Tech-07-1. Integer Operations\bin\Debug\Tech_07_1.Integer_Operations.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\Tech-07-1. Integer Operations\bin\Debug\Tech_07_1.Integer_Operations.pdb
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\Tech-07-1. Integer Operations\obj\Debug\1. Integer Operations.csprojAssemblyReference.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\Tech-07-1. Integer Operations\obj\Debug\1. Integer Operations.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\Tech-07-1. Integer Operations\obj\Debug\Tech_07_1.Integer_Operations.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\Tech-07-1. Integer Operations\obj\Debug\Tech_07_1.Integer_Operations.pdb
+D:\TORTOISE\homework\C#F\02-DataTypes\Tech-07-1. Integer Operations\bin\Debug\Tech_07_1.Integer_Operations.exe.config
+D:\TORTOISE\homework\C#F\02-DataTypes\Tech-07-1. Integer Operations\bin\Debug\Tech_07_1.Integer_Operations.exe
+D:\TORTOISE\homework\C#F\02-DataTypes\Tech-07-1. Integer Operations\bin\Debug\Tech_07_1.Integer_Operations.pdb
+D:\TORTOISE\homework\C#F\02-DataTypes\Tech-07-1. Integer Operations\obj\Debug\1. Integer Operations.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\02-DataTypes\Tech-07-1. Integer Operations\obj\Debug\1. Integer Operations.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\02-DataTypes\Tech-07-1. Integer Operations\obj\Debug\Tech_07_1.Integer_Operations.exe
+D:\TORTOISE\homework\C#F\02-DataTypes\Tech-07-1. Integer Operations\obj\Debug\Tech_07_1.Integer_Operations.pdb

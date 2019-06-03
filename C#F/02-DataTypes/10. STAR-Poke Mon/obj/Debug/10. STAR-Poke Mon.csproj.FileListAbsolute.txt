@@ -1,0 +1,7 @@
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\10. STAR-Poke Mon\bin\Debug\_10.STAR_Poke_Mon.exe.config
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\10. STAR-Poke Mon\bin\Debug\_10.STAR_Poke_Mon.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\10. STAR-Poke Mon\bin\Debug\_10.STAR_Poke_Mon.pdb
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\10. STAR-Poke Mon\obj\Debug\10. STAR-Poke Mon.csprojAssemblyReference.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\10. STAR-Poke Mon\obj\Debug\10. STAR-Poke Mon.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\10. STAR-Poke Mon\obj\Debug\_10.STAR_Poke_Mon.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\10. STAR-Poke Mon\obj\Debug\_10.STAR_Poke_Mon.pdb

@@ -1,0 +1,7 @@
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\11. STAR-Snowballs\bin\Debug\_11.STAR_Snowballs.exe.config
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\11. STAR-Snowballs\bin\Debug\_11.STAR_Snowballs.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\11. STAR-Snowballs\bin\Debug\_11.STAR_Snowballs.pdb
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\11. STAR-Snowballs\obj\Debug\11. STAR-Snowballs.csprojAssemblyReference.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\11. STAR-Snowballs\obj\Debug\11. STAR-Snowballs.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\11. STAR-Snowballs\obj\Debug\_11.STAR_Snowballs.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\11. STAR-Snowballs\obj\Debug\_11.STAR_Snowballs.pdb

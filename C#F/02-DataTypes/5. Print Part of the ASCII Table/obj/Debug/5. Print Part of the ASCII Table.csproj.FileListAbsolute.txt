@@ -1,0 +1,7 @@
+D:\TORTOISE\homework\C#F\02-DataTypes\5. Print Part of the ASCII Table\bin\Debug\_5.Print_Part_of_the_ASCII_Table.exe.config
+D:\TORTOISE\homework\C#F\02-DataTypes\5. Print Part of the ASCII Table\bin\Debug\_5.Print_Part_of_the_ASCII_Table.exe
+D:\TORTOISE\homework\C#F\02-DataTypes\5. Print Part of the ASCII Table\bin\Debug\_5.Print_Part_of_the_ASCII_Table.pdb
+D:\TORTOISE\homework\C#F\02-DataTypes\5. Print Part of the ASCII Table\obj\Debug\5. Print Part of the ASCII Table.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\02-DataTypes\5. Print Part of the ASCII Table\obj\Debug\5. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\02-DataTypes\5. Print Part of the ASCII Table\obj\Debug\_5.Print_Part_of_the_ASCII_Table.exe
+D:\TORTOISE\homework\C#F\02-DataTypes\5. Print Part of the ASCII Table\obj\Debug\_5.Print_Part_of_the_ASCII_Table.pdb

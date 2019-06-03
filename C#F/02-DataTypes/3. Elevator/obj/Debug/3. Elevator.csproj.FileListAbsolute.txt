@@ -1,0 +1,6 @@
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\3. Elevator\bin\Debug\_3.Elevator.exe.config
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\3. Elevator\bin\Debug\_3.Elevator.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\3. Elevator\bin\Debug\_3.Elevator.pdb
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\3. Elevator\obj\Debug\3. Elevator.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\3. Elevator\obj\Debug\_3.Elevator.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\3. Elevator\obj\Debug\_3.Elevator.pdb

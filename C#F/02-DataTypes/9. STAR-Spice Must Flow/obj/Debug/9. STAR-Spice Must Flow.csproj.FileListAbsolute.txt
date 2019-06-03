@@ -1,0 +1,7 @@
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\9. STAR-Spice Must Flow\bin\Debug\_9.STAR_Spice_Must_Flow.exe.config
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\9. STAR-Spice Must Flow\bin\Debug\_9.STAR_Spice_Must_Flow.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\9. STAR-Spice Must Flow\bin\Debug\_9.STAR_Spice_Must_Flow.pdb
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\9. STAR-Spice Must Flow\obj\Debug\9. STAR-Spice Must Flow.csprojAssemblyReference.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\9. STAR-Spice Must Flow\obj\Debug\9. STAR-Spice Must Flow.csproj.CoreCompileInputs.cache
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\9. STAR-Spice Must Flow\obj\Debug\_9.STAR_Spice_Must_Flow.exe
+D:\PeterProj\sorce\repos\Tech-07-1. Integer Operations\9. STAR-Spice Must Flow\obj\Debug\_9.STAR_Spice_Must_Flow.pdb
