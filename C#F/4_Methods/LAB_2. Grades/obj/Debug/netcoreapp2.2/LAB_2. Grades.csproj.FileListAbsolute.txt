@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\4_Methods\LAB_2. Grades\obj\Debug\netcoreapp2.2\LAB_2. Grades.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\4_Methods\LAB_2. Grades\obj\Debug\netcoreapp2.2\LAB_2. Grades.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\LAB_2. Grades\obj\Debug\netcoreapp2.2\LAB_2. Grades.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\LAB_2. Grades\obj\Debug\netcoreapp2.2\LAB_2. Grades.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\4_Methods\LAB_2. Grades\bin\Debug\netcoreapp2.2\LAB_2. Grades.deps.json
+D:\TORTOISE\homework\C#F\4_Methods\LAB_2. Grades\bin\Debug\netcoreapp2.2\LAB_2. Grades.runtimeconfig.json
+D:\TORTOISE\homework\C#F\4_Methods\LAB_2. Grades\bin\Debug\netcoreapp2.2\LAB_2. Grades.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\4_Methods\LAB_2. Grades\bin\Debug\netcoreapp2.2\LAB_2. Grades.dll
+D:\TORTOISE\homework\C#F\4_Methods\LAB_2. Grades\bin\Debug\netcoreapp2.2\LAB_2. Grades.pdb
+D:\TORTOISE\homework\C#F\4_Methods\LAB_2. Grades\obj\Debug\netcoreapp2.2\LAB_2. Grades.dll
+D:\TORTOISE\homework\C#F\4_Methods\LAB_2. Grades\obj\Debug\netcoreapp2.2\LAB_2. Grades.pdb

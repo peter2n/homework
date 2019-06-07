@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\4_Methods\4_Methods\bin\Debug\netcoreapp2.2\LAB_1. Sign of Integer Numbers.deps.json
+D:\TORTOISE\homework\C#F\4_Methods\4_Methods\bin\Debug\netcoreapp2.2\LAB_1. Sign of Integer Numbers.runtimeconfig.json
+D:\TORTOISE\homework\C#F\4_Methods\4_Methods\bin\Debug\netcoreapp2.2\LAB_1. Sign of Integer Numbers.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\4_Methods\4_Methods\bin\Debug\netcoreapp2.2\LAB_1. Sign of Integer Numbers.dll
+D:\TORTOISE\homework\C#F\4_Methods\4_Methods\bin\Debug\netcoreapp2.2\LAB_1. Sign of Integer Numbers.pdb
+D:\TORTOISE\homework\C#F\4_Methods\4_Methods\obj\Debug\netcoreapp2.2\LAB_1. Sign of Integer Numbers.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\4_Methods\4_Methods\obj\Debug\netcoreapp2.2\LAB_1. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\4_Methods\obj\Debug\netcoreapp2.2\LAB_1. Sign of Integer Numbers.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\4_Methods\obj\Debug\netcoreapp2.2\LAB_1. Sign of Integer Numbers.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\4_Methods\4_Methods\obj\Debug\netcoreapp2.2\LAB_1. Sign of Integer Numbers.dll
+D:\TORTOISE\homework\C#F\4_Methods\4_Methods\obj\Debug\netcoreapp2.2\LAB_1. Sign of Integer Numbers.pdb

@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_5. Month Printer\bin\Debug\netcoreapp2.2\LAB_5. Month Printer.deps.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_5. Month Printer\bin\Debug\netcoreapp2.2\LAB_5. Month Printer.runtimeconfig.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_5. Month Printer\bin\Debug\netcoreapp2.2\LAB_5. Month Printer.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_5. Month Printer\bin\Debug\netcoreapp2.2\LAB_5. Month Printer.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_5. Month Printer\bin\Debug\netcoreapp2.2\LAB_5. Month Printer.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_5. Month Printer\obj\Debug\netcoreapp2.2\LAB_5. Month Printer.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_5. Month Printer\obj\Debug\netcoreapp2.2\LAB_5. Month Printer.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_5. Month Printer\obj\Debug\netcoreapp2.2\LAB_5. Month Printer.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_5. Month Printer\obj\Debug\netcoreapp2.2\LAB_5. Month Printer.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_5. Month Printer\obj\Debug\netcoreapp2.2\LAB_5. Month Printer.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\LAB_5. Month Printer\obj\Debug\netcoreapp2.2\LAB_5. Month Printer.pdb

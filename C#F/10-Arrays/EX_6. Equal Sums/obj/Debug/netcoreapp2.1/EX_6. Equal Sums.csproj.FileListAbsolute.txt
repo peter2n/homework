@@ -9,3 +9,14 @@ D:\PeterProj\sorce\repos\Tech-10-EX\EX_6. Equal Sums\obj\Debug\netcoreapp2.1\EX_
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_6. Equal Sums\obj\Debug\netcoreapp2.1\EX_6. Equal Sums.AssemblyInfo.cs
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_6. Equal Sums\obj\Debug\netcoreapp2.1\EX_6. Equal Sums.dll
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_6. Equal Sums\obj\Debug\netcoreapp2.1\EX_6. Equal Sums.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\EX_6. Equal Sums\bin\Debug\netcoreapp2.1\EX_6. Equal Sums.deps.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_6. Equal Sums\bin\Debug\netcoreapp2.1\EX_6. Equal Sums.runtimeconfig.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_6. Equal Sums\bin\Debug\netcoreapp2.1\EX_6. Equal Sums.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_6. Equal Sums\bin\Debug\netcoreapp2.1\EX_6. Equal Sums.dll
+D:\TORTOISE\homework\C#F\10-Arrays\EX_6. Equal Sums\bin\Debug\netcoreapp2.1\EX_6. Equal Sums.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\EX_6. Equal Sums\obj\Debug\netcoreapp2.1\EX_6. Equal Sums.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_6. Equal Sums\obj\Debug\netcoreapp2.1\EX_6. Equal Sums.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_6. Equal Sums\obj\Debug\netcoreapp2.1\EX_6. Equal Sums.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_6. Equal Sums\obj\Debug\netcoreapp2.1\EX_6. Equal Sums.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\10-Arrays\EX_6. Equal Sums\obj\Debug\netcoreapp2.1\EX_6. Equal Sums.dll
+D:\TORTOISE\homework\C#F\10-Arrays\EX_6. Equal Sums\obj\Debug\netcoreapp2.1\EX_6. Equal Sums.pdb

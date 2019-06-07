@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MORE_1._Encrypt__Sort_and_Print_Array_List/1.0.0": {
+        "runtime": {
+          "MORE_1._Encrypt__Sort_and_Print_Array_List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MORE_1._Encrypt__Sort_and_Print_Array_List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

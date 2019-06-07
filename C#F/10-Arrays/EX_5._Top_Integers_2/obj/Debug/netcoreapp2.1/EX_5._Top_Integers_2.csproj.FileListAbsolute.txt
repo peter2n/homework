@@ -9,3 +9,14 @@ D:\PeterProj\sorce\repos\Tech-10-EX\EX_5._Top_Integers_2\obj\Debug\netcoreapp2.1
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_5._Top_Integers_2\obj\Debug\netcoreapp2.1\EX_5._Top_Integers_2.dll
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_5._Top_Integers_2\obj\Debug\netcoreapp2.1\EX_5._Top_Integers_2.pdb
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_5._Top_Integers_2\obj\Debug\netcoreapp2.1\EX_5._Top_Integers_2.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_5._Top_Integers_2\bin\Debug\netcoreapp2.1\EX_5._Top_Integers_2.deps.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_5._Top_Integers_2\bin\Debug\netcoreapp2.1\EX_5._Top_Integers_2.runtimeconfig.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_5._Top_Integers_2\bin\Debug\netcoreapp2.1\EX_5._Top_Integers_2.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_5._Top_Integers_2\bin\Debug\netcoreapp2.1\EX_5._Top_Integers_2.dll
+D:\TORTOISE\homework\C#F\10-Arrays\EX_5._Top_Integers_2\bin\Debug\netcoreapp2.1\EX_5._Top_Integers_2.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\EX_5._Top_Integers_2\obj\Debug\netcoreapp2.1\EX_5._Top_Integers_2.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_5._Top_Integers_2\obj\Debug\netcoreapp2.1\EX_5._Top_Integers_2.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_5._Top_Integers_2\obj\Debug\netcoreapp2.1\EX_5._Top_Integers_2.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_5._Top_Integers_2\obj\Debug\netcoreapp2.1\EX_5._Top_Integers_2.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\10-Arrays\EX_5._Top_Integers_2\obj\Debug\netcoreapp2.1\EX_5._Top_Integers_2.dll
+D:\TORTOISE\homework\C#F\10-Arrays\EX_5._Top_Integers_2\obj\Debug\netcoreapp2.1\EX_5._Top_Integers_2.pdb

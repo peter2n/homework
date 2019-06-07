@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\4_Methods\LAB_3. Calculations\bin\Debug\netcoreapp2.2\LAB_3. Calculations.deps.json
+D:\TORTOISE\homework\C#F\4_Methods\LAB_3. Calculations\bin\Debug\netcoreapp2.2\LAB_3. Calculations.runtimeconfig.json
+D:\TORTOISE\homework\C#F\4_Methods\LAB_3. Calculations\bin\Debug\netcoreapp2.2\LAB_3. Calculations.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\4_Methods\LAB_3. Calculations\bin\Debug\netcoreapp2.2\LAB_3. Calculations.dll
+D:\TORTOISE\homework\C#F\4_Methods\LAB_3. Calculations\bin\Debug\netcoreapp2.2\LAB_3. Calculations.pdb
+D:\TORTOISE\homework\C#F\4_Methods\LAB_3. Calculations\obj\Debug\netcoreapp2.2\LAB_3. Calculations.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\4_Methods\LAB_3. Calculations\obj\Debug\netcoreapp2.2\LAB_3. Calculations.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\LAB_3. Calculations\obj\Debug\netcoreapp2.2\LAB_3. Calculations.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\LAB_3. Calculations\obj\Debug\netcoreapp2.2\LAB_3. Calculations.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\4_Methods\LAB_3. Calculations\obj\Debug\netcoreapp2.2\LAB_3. Calculations.dll
+D:\TORTOISE\homework\C#F\4_Methods\LAB_3. Calculations\obj\Debug\netcoreapp2.2\LAB_3. Calculations.pdb

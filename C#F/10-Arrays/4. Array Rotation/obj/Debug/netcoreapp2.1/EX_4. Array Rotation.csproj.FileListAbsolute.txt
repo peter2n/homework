@@ -9,3 +9,14 @@ D:\PeterProj\sorce\repos\Tech-10-EX\4. Array Rotation\obj\Debug\netcoreapp2.1\EX
 D:\PeterProj\sorce\repos\Tech-10-EX\4. Array Rotation\obj\Debug\netcoreapp2.1\EX_4. Array Rotation.AssemblyInfo.cs
 D:\PeterProj\sorce\repos\Tech-10-EX\4. Array Rotation\obj\Debug\netcoreapp2.1\EX_4. Array Rotation.dll
 D:\PeterProj\sorce\repos\Tech-10-EX\4. Array Rotation\obj\Debug\netcoreapp2.1\EX_4. Array Rotation.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\4. Array Rotation\bin\Debug\netcoreapp2.1\EX_4. Array Rotation.deps.json
+D:\TORTOISE\homework\C#F\10-Arrays\4. Array Rotation\bin\Debug\netcoreapp2.1\EX_4. Array Rotation.runtimeconfig.json
+D:\TORTOISE\homework\C#F\10-Arrays\4. Array Rotation\bin\Debug\netcoreapp2.1\EX_4. Array Rotation.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\10-Arrays\4. Array Rotation\bin\Debug\netcoreapp2.1\EX_4. Array Rotation.dll
+D:\TORTOISE\homework\C#F\10-Arrays\4. Array Rotation\bin\Debug\netcoreapp2.1\EX_4. Array Rotation.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\4. Array Rotation\obj\Debug\netcoreapp2.1\EX_4. Array Rotation.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\10-Arrays\4. Array Rotation\obj\Debug\netcoreapp2.1\EX_4. Array Rotation.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\4. Array Rotation\obj\Debug\netcoreapp2.1\EX_4. Array Rotation.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\4. Array Rotation\obj\Debug\netcoreapp2.1\EX_4. Array Rotation.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\10-Arrays\4. Array Rotation\obj\Debug\netcoreapp2.1\EX_4. Array Rotation.dll
+D:\TORTOISE\homework\C#F\10-Arrays\4. Array Rotation\obj\Debug\netcoreapp2.1\EX_4. Array Rotation.pdb

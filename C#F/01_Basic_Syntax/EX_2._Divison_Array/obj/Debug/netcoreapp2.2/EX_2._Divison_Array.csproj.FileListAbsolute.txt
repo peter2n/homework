@@ -1,0 +1,10 @@
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2._Divison_Array\bin\Debug\netcoreapp2.2\EX_2._Divison_Array.deps.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2._Divison_Array\bin\Debug\netcoreapp2.2\EX_2._Divison_Array.runtimeconfig.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2._Divison_Array\bin\Debug\netcoreapp2.2\EX_2._Divison_Array.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2._Divison_Array\bin\Debug\netcoreapp2.2\EX_2._Divison_Array.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2._Divison_Array\bin\Debug\netcoreapp2.2\EX_2._Divison_Array.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2._Divison_Array\obj\Debug\netcoreapp2.2\EX_2._Divison_Array.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2._Divison_Array\obj\Debug\netcoreapp2.2\EX_2._Divison_Array.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2._Divison_Array\obj\Debug\netcoreapp2.2\EX_2._Divison_Array.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2._Divison_Array\obj\Debug\netcoreapp2.2\EX_2._Divison_Array.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2._Divison_Array\obj\Debug\netcoreapp2.2\EX_2._Divison_Array.pdb

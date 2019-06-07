@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_2. Pascal Triangle\bin\Debug\netcoreapp2.2\MORE_2. Pascal Triangle.deps.json
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_2. Pascal Triangle\bin\Debug\netcoreapp2.2\MORE_2. Pascal Triangle.runtimeconfig.json
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_2. Pascal Triangle\bin\Debug\netcoreapp2.2\MORE_2. Pascal Triangle.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_2. Pascal Triangle\bin\Debug\netcoreapp2.2\MORE_2. Pascal Triangle.dll
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_2. Pascal Triangle\bin\Debug\netcoreapp2.2\MORE_2. Pascal Triangle.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_2. Pascal Triangle\obj\Debug\netcoreapp2.2\MORE_2. Pascal Triangle.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_2. Pascal Triangle\obj\Debug\netcoreapp2.2\MORE_2. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_2. Pascal Triangle\obj\Debug\netcoreapp2.2\MORE_2. Pascal Triangle.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_2. Pascal Triangle\obj\Debug\netcoreapp2.2\MORE_2. Pascal Triangle.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_2. Pascal Triangle\obj\Debug\netcoreapp2.2\MORE_2. Pascal Triangle.dll
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_2. Pascal Triangle\obj\Debug\netcoreapp2.2\MORE_2. Pascal Triangle.pdb

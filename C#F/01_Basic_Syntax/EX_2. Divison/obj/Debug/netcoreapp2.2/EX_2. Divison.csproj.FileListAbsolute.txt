@@ -1,0 +1,10 @@
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2. Divison\bin\Debug\netcoreapp2.2\EX_2. Divison.deps.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2. Divison\bin\Debug\netcoreapp2.2\EX_2. Divison.runtimeconfig.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2. Divison\bin\Debug\netcoreapp2.2\EX_2. Divison.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2. Divison\bin\Debug\netcoreapp2.2\EX_2. Divison.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2. Divison\bin\Debug\netcoreapp2.2\EX_2. Divison.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2. Divison\obj\Debug\netcoreapp2.2\EX_2. Divison.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2. Divison\obj\Debug\netcoreapp2.2\EX_2. Divison.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2. Divison\obj\Debug\netcoreapp2.2\EX_2. Divison.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2. Divison\obj\Debug\netcoreapp2.2\EX_2. Divison.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_2. Divison\obj\Debug\netcoreapp2.2\EX_2. Divison.pdb

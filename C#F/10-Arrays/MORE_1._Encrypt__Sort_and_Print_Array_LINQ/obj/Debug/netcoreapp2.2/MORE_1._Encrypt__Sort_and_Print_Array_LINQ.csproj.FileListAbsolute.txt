@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_1._Encrypt__Sort_and_Print_Array_LINQ\bin\Debug\netcoreapp2.2\MORE_1._Encrypt__Sort_and_Print_Array_LINQ.deps.json
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_1._Encrypt__Sort_and_Print_Array_LINQ\bin\Debug\netcoreapp2.2\MORE_1._Encrypt__Sort_and_Print_Array_LINQ.runtimeconfig.json
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_1._Encrypt__Sort_and_Print_Array_LINQ\bin\Debug\netcoreapp2.2\MORE_1._Encrypt__Sort_and_Print_Array_LINQ.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_1._Encrypt__Sort_and_Print_Array_LINQ\bin\Debug\netcoreapp2.2\MORE_1._Encrypt__Sort_and_Print_Array_LINQ.dll
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_1._Encrypt__Sort_and_Print_Array_LINQ\bin\Debug\netcoreapp2.2\MORE_1._Encrypt__Sort_and_Print_Array_LINQ.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_1._Encrypt__Sort_and_Print_Array_LINQ\obj\Debug\netcoreapp2.2\MORE_1._Encrypt__Sort_and_Print_Array_LINQ.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_1._Encrypt__Sort_and_Print_Array_LINQ\obj\Debug\netcoreapp2.2\MORE_1._Encrypt__Sort_and_Print_Array_LINQ.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_1._Encrypt__Sort_and_Print_Array_LINQ\obj\Debug\netcoreapp2.2\MORE_1._Encrypt__Sort_and_Print_Array_LINQ.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_1._Encrypt__Sort_and_Print_Array_LINQ\obj\Debug\netcoreapp2.2\MORE_1._Encrypt__Sort_and_Print_Array_LINQ.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_1._Encrypt__Sort_and_Print_Array_LINQ\obj\Debug\netcoreapp2.2\MORE_1._Encrypt__Sort_and_Print_Array_LINQ.dll
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_1._Encrypt__Sort_and_Print_Array_LINQ\obj\Debug\netcoreapp2.2\MORE_1._Encrypt__Sort_and_Print_Array_LINQ.pdb

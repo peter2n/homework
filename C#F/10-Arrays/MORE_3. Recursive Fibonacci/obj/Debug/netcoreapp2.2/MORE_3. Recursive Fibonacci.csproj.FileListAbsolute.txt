@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\MORE_3. Recursive Fibonacci.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\MORE_3. Recursive Fibonacci.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\MORE_3. Recursive Fibonacci.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\MORE_3. Recursive Fibonacci.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_3. Recursive Fibonacci\bin\Debug\netcoreapp2.2\MORE_3. Recursive Fibonacci.deps.json
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_3. Recursive Fibonacci\bin\Debug\netcoreapp2.2\MORE_3. Recursive Fibonacci.runtimeconfig.json
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_3. Recursive Fibonacci\bin\Debug\netcoreapp2.2\MORE_3. Recursive Fibonacci.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_3. Recursive Fibonacci\bin\Debug\netcoreapp2.2\MORE_3. Recursive Fibonacci.dll
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_3. Recursive Fibonacci\bin\Debug\netcoreapp2.2\MORE_3. Recursive Fibonacci.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\MORE_3. Recursive Fibonacci.dll
+D:\TORTOISE\homework\C#F\10-Arrays\MORE_3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\MORE_3. Recursive Fibonacci.pdb

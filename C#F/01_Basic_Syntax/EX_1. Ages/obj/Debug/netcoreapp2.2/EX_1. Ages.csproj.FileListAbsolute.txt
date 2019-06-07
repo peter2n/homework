@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_1. Ages\obj\Debug\netcoreapp2.2\EX_1. Ages.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_1. Ages\obj\Debug\netcoreapp2.2\EX_1. Ages.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_1. Ages\obj\Debug\netcoreapp2.2\EX_1. Ages.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_1. Ages\obj\Debug\netcoreapp2.2\EX_1. Ages.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_1. Ages\bin\Debug\netcoreapp2.2\EX_1. Ages.deps.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_1. Ages\bin\Debug\netcoreapp2.2\EX_1. Ages.runtimeconfig.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_1. Ages\bin\Debug\netcoreapp2.2\EX_1. Ages.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_1. Ages\bin\Debug\netcoreapp2.2\EX_1. Ages.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_1. Ages\bin\Debug\netcoreapp2.2\EX_1. Ages.pdb
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_1. Ages\obj\Debug\netcoreapp2.2\EX_1. Ages.dll
+D:\TORTOISE\homework\C#F\01_Basic_Syntax\EX_1. Ages\obj\Debug\netcoreapp2.2\EX_1. Ages.pdb

@@ -9,3 +9,14 @@ D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.AssemblyInfo.cs
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.dll
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\EX_8. Magic Sum\bin\Debug\netcoreapp2.1\EX_8. Magic Sum.deps.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_8. Magic Sum\bin\Debug\netcoreapp2.1\EX_8. Magic Sum.runtimeconfig.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_8. Magic Sum\bin\Debug\netcoreapp2.1\EX_8. Magic Sum.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_8. Magic Sum\bin\Debug\netcoreapp2.1\EX_8. Magic Sum.dll
+D:\TORTOISE\homework\C#F\10-Arrays\EX_8. Magic Sum\bin\Debug\netcoreapp2.1\EX_8. Magic Sum.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\10-Arrays\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.dll
+D:\TORTOISE\homework\C#F\10-Arrays\EX_8. Magic Sum\obj\Debug\netcoreapp2.1\EX_8. Magic Sum.pdb

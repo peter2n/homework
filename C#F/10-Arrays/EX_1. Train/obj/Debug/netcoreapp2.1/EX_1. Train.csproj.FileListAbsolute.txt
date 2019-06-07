@@ -9,3 +9,14 @@ D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1.
 D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.AssemblyInfo.cs
 D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.dll
 D:\PeterProj\sorce\repos\02-Tech-10-EX\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\EX_1. Train\bin\Debug\netcoreapp2.1\EX_1. Train.deps.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_1. Train\bin\Debug\netcoreapp2.1\EX_1. Train.runtimeconfig.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_1. Train\bin\Debug\netcoreapp2.1\EX_1. Train.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_1. Train\bin\Debug\netcoreapp2.1\EX_1. Train.dll
+D:\TORTOISE\homework\C#F\10-Arrays\EX_1. Train\bin\Debug\netcoreapp2.1\EX_1. Train.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\10-Arrays\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.dll
+D:\TORTOISE\homework\C#F\10-Arrays\EX_1. Train\obj\Debug\netcoreapp2.1\EX_1. Train.pdb

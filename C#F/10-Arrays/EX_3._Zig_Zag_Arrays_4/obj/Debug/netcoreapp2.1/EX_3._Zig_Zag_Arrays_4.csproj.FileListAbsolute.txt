@@ -9,3 +9,14 @@ D:\PeterProj\sorce\repos\Tech-10-EX\EX_3._Zig_Zag_Arrays_4\obj\Debug\netcoreapp2
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_3._Zig_Zag_Arrays_4\obj\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.AssemblyInfo.cs
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_3._Zig_Zag_Arrays_4\obj\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.dll
 D:\PeterProj\sorce\repos\Tech-10-EX\EX_3._Zig_Zag_Arrays_4\obj\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\EX_3._Zig_Zag_Arrays_4\bin\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.deps.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_3._Zig_Zag_Arrays_4\bin\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.runtimeconfig.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_3._Zig_Zag_Arrays_4\bin\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\10-Arrays\EX_3._Zig_Zag_Arrays_4\bin\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.dll
+D:\TORTOISE\homework\C#F\10-Arrays\EX_3._Zig_Zag_Arrays_4\bin\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.pdb
+D:\TORTOISE\homework\C#F\10-Arrays\EX_3._Zig_Zag_Arrays_4\obj\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_3._Zig_Zag_Arrays_4\obj\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_3._Zig_Zag_Arrays_4\obj\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\10-Arrays\EX_3._Zig_Zag_Arrays_4\obj\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\10-Arrays\EX_3._Zig_Zag_Arrays_4\obj\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.dll
+D:\TORTOISE\homework\C#F\10-Arrays\EX_3._Zig_Zag_Arrays_4\obj\Debug\netcoreapp2.1\EX_3._Zig_Zag_Arrays_4.pdb
