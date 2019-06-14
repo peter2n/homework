@@ -1,0 +1,10 @@
+D:\TORTOISE\homework\C#F\4_Methods\EX_6. Middle Characters\bin\Debug\netcoreapp2.2\EX_6. Middle Characters.deps.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_6. Middle Characters\bin\Debug\netcoreapp2.2\EX_6. Middle Characters.runtimeconfig.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_6. Middle Characters\bin\Debug\netcoreapp2.2\EX_6. Middle Characters.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_6. Middle Characters\bin\Debug\netcoreapp2.2\EX_6. Middle Characters.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_6. Middle Characters\bin\Debug\netcoreapp2.2\EX_6. Middle Characters.pdb
+D:\TORTOISE\homework\C#F\4_Methods\EX_6. Middle Characters\obj\Debug\netcoreapp2.2\EX_6. Middle Characters.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_6. Middle Characters\obj\Debug\netcoreapp2.2\EX_6. Middle Characters.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_6. Middle Characters\obj\Debug\netcoreapp2.2\EX_6. Middle Characters.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\4_Methods\EX_6. Middle Characters\obj\Debug\netcoreapp2.2\EX_6. Middle Characters.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_6. Middle Characters\obj\Debug\netcoreapp2.2\EX_6. Middle Characters.pdb

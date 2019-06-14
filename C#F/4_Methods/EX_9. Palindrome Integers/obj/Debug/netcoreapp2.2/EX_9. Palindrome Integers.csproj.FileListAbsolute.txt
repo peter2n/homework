@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\4_Methods\EX_9. Palindrome Integers\bin\Debug\netcoreapp2.2\EX_9. Palindrome Integers.deps.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_9. Palindrome Integers\bin\Debug\netcoreapp2.2\EX_9. Palindrome Integers.runtimeconfig.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_9. Palindrome Integers\bin\Debug\netcoreapp2.2\EX_9. Palindrome Integers.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_9. Palindrome Integers\bin\Debug\netcoreapp2.2\EX_9. Palindrome Integers.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_9. Palindrome Integers\bin\Debug\netcoreapp2.2\EX_9. Palindrome Integers.pdb
+D:\TORTOISE\homework\C#F\4_Methods\EX_9. Palindrome Integers\obj\Debug\netcoreapp2.2\EX_9. Palindrome Integers.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_9. Palindrome Integers\obj\Debug\netcoreapp2.2\EX_9. Palindrome Integers.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_9. Palindrome Integers\obj\Debug\netcoreapp2.2\EX_9. Palindrome Integers.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_9. Palindrome Integers\obj\Debug\netcoreapp2.2\EX_9. Palindrome Integers.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\4_Methods\EX_9. Palindrome Integers\obj\Debug\netcoreapp2.2\EX_9. Palindrome Integers.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_9. Palindrome Integers\obj\Debug\netcoreapp2.2\EX_9. Palindrome Integers.pdb

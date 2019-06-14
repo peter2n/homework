@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\4_Methods\EX_8. Factorial Division\bin\Debug\netcoreapp2.2\EX_8. Factorial Division.deps.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_8. Factorial Division\bin\Debug\netcoreapp2.2\EX_8. Factorial Division.runtimeconfig.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_8. Factorial Division\bin\Debug\netcoreapp2.2\EX_8. Factorial Division.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_8. Factorial Division\bin\Debug\netcoreapp2.2\EX_8. Factorial Division.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_8. Factorial Division\bin\Debug\netcoreapp2.2\EX_8. Factorial Division.pdb
+D:\TORTOISE\homework\C#F\4_Methods\EX_8. Factorial Division\obj\Debug\netcoreapp2.2\EX_8. Factorial Division.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_8. Factorial Division\obj\Debug\netcoreapp2.2\EX_8. Factorial Division.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_8. Factorial Division\obj\Debug\netcoreapp2.2\EX_8. Factorial Division.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_8. Factorial Division\obj\Debug\netcoreapp2.2\EX_8. Factorial Division.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\4_Methods\EX_8. Factorial Division\obj\Debug\netcoreapp2.2\EX_8. Factorial Division.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_8. Factorial Division\obj\Debug\netcoreapp2.2\EX_8. Factorial Division.pdb

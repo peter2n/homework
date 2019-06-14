@@ -1,0 +1,10 @@
+D:\TORTOISE\homework\C#F\4_Methods\EX_7. NxN Matrix\bin\Debug\netcoreapp2.2\EX_7. NxN Matrix.deps.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_7. NxN Matrix\bin\Debug\netcoreapp2.2\EX_7. NxN Matrix.runtimeconfig.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_7. NxN Matrix\bin\Debug\netcoreapp2.2\EX_7. NxN Matrix.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_7. NxN Matrix\bin\Debug\netcoreapp2.2\EX_7. NxN Matrix.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_7. NxN Matrix\bin\Debug\netcoreapp2.2\EX_7. NxN Matrix.pdb
+D:\TORTOISE\homework\C#F\4_Methods\EX_7. NxN Matrix\obj\Debug\netcoreapp2.2\EX_7. NxN Matrix.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_7. NxN Matrix\obj\Debug\netcoreapp2.2\EX_7. NxN Matrix.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_7. NxN Matrix\obj\Debug\netcoreapp2.2\EX_7. NxN Matrix.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\4_Methods\EX_7. NxN Matrix\obj\Debug\netcoreapp2.2\EX_7. NxN Matrix.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_7. NxN Matrix\obj\Debug\netcoreapp2.2\EX_7. NxN Matrix.pdb

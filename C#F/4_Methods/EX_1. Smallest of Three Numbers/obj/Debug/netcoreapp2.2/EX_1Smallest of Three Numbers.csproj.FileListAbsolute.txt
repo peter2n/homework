@@ -1,0 +1,10 @@
+D:\TORTOISE\homework\C#F\4_Methods\EX_1. Smallest of Three Numbers\bin\Debug\netcoreapp2.2\EX_1Smallest of Three Numbers.deps.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_1. Smallest of Three Numbers\bin\Debug\netcoreapp2.2\EX_1Smallest of Three Numbers.runtimeconfig.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_1. Smallest of Three Numbers\bin\Debug\netcoreapp2.2\EX_1Smallest of Three Numbers.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_1. Smallest of Three Numbers\bin\Debug\netcoreapp2.2\EX_1Smallest of Three Numbers.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_1. Smallest of Three Numbers\bin\Debug\netcoreapp2.2\EX_1Smallest of Three Numbers.pdb
+D:\TORTOISE\homework\C#F\4_Methods\EX_1. Smallest of Three Numbers\obj\Debug\netcoreapp2.2\EX_1Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_1. Smallest of Three Numbers\obj\Debug\netcoreapp2.2\EX_1Smallest of Three Numbers.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_1. Smallest of Three Numbers\obj\Debug\netcoreapp2.2\EX_1Smallest of Three Numbers.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\4_Methods\EX_1. Smallest of Three Numbers\obj\Debug\netcoreapp2.2\EX_1Smallest of Three Numbers.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_1. Smallest of Three Numbers\obj\Debug\netcoreapp2.2\EX_1Smallest of Three Numbers.pdb

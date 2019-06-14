@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\4_Methods\LAB_11. Math operations\obj\Debug\netcoreapp2.2\LAB_11. Math operations.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\4_Methods\LAB_11. Math operations\obj\Debug\netcoreapp2.2\LAB_11. Math operations.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\LAB_11. Math operations\obj\Debug\netcoreapp2.2\LAB_11. Math operations.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\LAB_11. Math operations\obj\Debug\netcoreapp2.2\LAB_11. Math operations.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\4_Methods\LAB_11. Math operations\bin\Debug\netcoreapp2.2\LAB_11. Math operations.deps.json
+D:\TORTOISE\homework\C#F\4_Methods\LAB_11. Math operations\bin\Debug\netcoreapp2.2\LAB_11. Math operations.runtimeconfig.json
+D:\TORTOISE\homework\C#F\4_Methods\LAB_11. Math operations\bin\Debug\netcoreapp2.2\LAB_11. Math operations.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\4_Methods\LAB_11. Math operations\bin\Debug\netcoreapp2.2\LAB_11. Math operations.dll
+D:\TORTOISE\homework\C#F\4_Methods\LAB_11. Math operations\bin\Debug\netcoreapp2.2\LAB_11. Math operations.pdb
+D:\TORTOISE\homework\C#F\4_Methods\LAB_11. Math operations\obj\Debug\netcoreapp2.2\LAB_11. Math operations.dll
+D:\TORTOISE\homework\C#F\4_Methods\LAB_11. Math operations\obj\Debug\netcoreapp2.2\LAB_11. Math operations.pdb

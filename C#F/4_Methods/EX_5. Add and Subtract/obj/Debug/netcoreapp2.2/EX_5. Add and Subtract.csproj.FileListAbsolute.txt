@@ -1,0 +1,10 @@
+D:\TORTOISE\homework\C#F\4_Methods\EX_5. Add and Subtract\bin\Debug\netcoreapp2.2\EX_5. Add and Subtract.deps.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_5. Add and Subtract\bin\Debug\netcoreapp2.2\EX_5. Add and Subtract.runtimeconfig.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_5. Add and Subtract\bin\Debug\netcoreapp2.2\EX_5. Add and Subtract.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_5. Add and Subtract\bin\Debug\netcoreapp2.2\EX_5. Add and Subtract.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_5. Add and Subtract\bin\Debug\netcoreapp2.2\EX_5. Add and Subtract.pdb
+D:\TORTOISE\homework\C#F\4_Methods\EX_5. Add and Subtract\obj\Debug\netcoreapp2.2\EX_5. Add and Subtract.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_5. Add and Subtract\obj\Debug\netcoreapp2.2\EX_5. Add and Subtract.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_5. Add and Subtract\obj\Debug\netcoreapp2.2\EX_5. Add and Subtract.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\4_Methods\EX_5. Add and Subtract\obj\Debug\netcoreapp2.2\EX_5. Add and Subtract.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_5. Add and Subtract\obj\Debug\netcoreapp2.2\EX_5. Add and Subtract.pdb

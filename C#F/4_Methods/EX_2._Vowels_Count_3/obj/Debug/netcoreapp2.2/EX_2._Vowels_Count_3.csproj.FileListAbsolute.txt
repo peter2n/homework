@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\4_Methods\EX_2._Vowels_Count_3\bin\Debug\netcoreapp2.2\EX_2._Vowels_Count_3.deps.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_2._Vowels_Count_3\bin\Debug\netcoreapp2.2\EX_2._Vowels_Count_3.runtimeconfig.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_2._Vowels_Count_3\bin\Debug\netcoreapp2.2\EX_2._Vowels_Count_3.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\4_Methods\EX_2._Vowels_Count_3\bin\Debug\netcoreapp2.2\EX_2._Vowels_Count_3.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_2._Vowels_Count_3\bin\Debug\netcoreapp2.2\EX_2._Vowels_Count_3.pdb
+D:\TORTOISE\homework\C#F\4_Methods\EX_2._Vowels_Count_3\obj\Debug\netcoreapp2.2\EX_2._Vowels_Count_3.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_2._Vowels_Count_3\obj\Debug\netcoreapp2.2\EX_2._Vowels_Count_3.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\4_Methods\EX_2._Vowels_Count_3\obj\Debug\netcoreapp2.2\EX_2._Vowels_Count_3.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\4_Methods\EX_2._Vowels_Count_3\obj\Debug\netcoreapp2.2\EX_2._Vowels_Count_3.dll
+D:\TORTOISE\homework\C#F\4_Methods\EX_2._Vowels_Count_3\obj\Debug\netcoreapp2.2\EX_2._Vowels_Count_3.pdb
+D:\TORTOISE\homework\C#F\4_Methods\EX_2._Vowels_Count_3\obj\Debug\netcoreapp2.2\EX_2._Vowels_Count_3.csprojAssemblyReference.cache
