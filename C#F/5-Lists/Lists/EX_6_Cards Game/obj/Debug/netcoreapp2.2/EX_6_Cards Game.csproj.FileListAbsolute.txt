@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_6_Cards Game\bin\Debug\netcoreapp2.2\EX_6_Cards Game.deps.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_6_Cards Game\bin\Debug\netcoreapp2.2\EX_6_Cards Game.runtimeconfig.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_6_Cards Game\bin\Debug\netcoreapp2.2\EX_6_Cards Game.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_6_Cards Game\bin\Debug\netcoreapp2.2\EX_6_Cards Game.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_6_Cards Game\bin\Debug\netcoreapp2.2\EX_6_Cards Game.pdb
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_6_Cards Game\obj\Debug\netcoreapp2.2\EX_6_Cards Game.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_6_Cards Game\obj\Debug\netcoreapp2.2\EX_6_Cards Game.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_6_Cards Game\obj\Debug\netcoreapp2.2\EX_6_Cards Game.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_6_Cards Game\obj\Debug\netcoreapp2.2\EX_6_Cards Game.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_6_Cards Game\obj\Debug\netcoreapp2.2\EX_6_Cards Game.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_6_Cards Game\obj\Debug\netcoreapp2.2\EX_6_Cards Game.pdb

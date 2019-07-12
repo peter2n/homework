@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\5-Lists\Lists\STAR_Anonymous Threat\bin\Debug\netcoreapp2.2\STAR_Anonymous Threat.deps.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\STAR_Anonymous Threat\bin\Debug\netcoreapp2.2\STAR_Anonymous Threat.runtimeconfig.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\STAR_Anonymous Threat\bin\Debug\netcoreapp2.2\STAR_Anonymous Threat.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\STAR_Anonymous Threat\bin\Debug\netcoreapp2.2\STAR_Anonymous Threat.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\STAR_Anonymous Threat\bin\Debug\netcoreapp2.2\STAR_Anonymous Threat.pdb
+D:\TORTOISE\homework\C#F\5-Lists\Lists\STAR_Anonymous Threat\obj\Debug\netcoreapp2.2\STAR_Anonymous Threat.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\STAR_Anonymous Threat\obj\Debug\netcoreapp2.2\STAR_Anonymous Threat.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\STAR_Anonymous Threat\obj\Debug\netcoreapp2.2\STAR_Anonymous Threat.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\STAR_Anonymous Threat\obj\Debug\netcoreapp2.2\STAR_Anonymous Threat.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\5-Lists\Lists\STAR_Anonymous Threat\obj\Debug\netcoreapp2.2\STAR_Anonymous Threat.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\STAR_Anonymous Threat\obj\Debug\netcoreapp2.2\STAR_Anonymous Threat.pdb

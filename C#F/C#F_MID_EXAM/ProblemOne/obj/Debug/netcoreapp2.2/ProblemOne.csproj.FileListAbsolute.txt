@@ -1,0 +1,11 @@
+D:\C#F_MID\MID\ProblemOne\bin\Debug\netcoreapp2.2\ProblemOne.deps.json
+D:\C#F_MID\MID\ProblemOne\bin\Debug\netcoreapp2.2\ProblemOne.runtimeconfig.json
+D:\C#F_MID\MID\ProblemOne\bin\Debug\netcoreapp2.2\ProblemOne.runtimeconfig.dev.json
+D:\C#F_MID\MID\ProblemOne\bin\Debug\netcoreapp2.2\ProblemOne.dll
+D:\C#F_MID\MID\ProblemOne\bin\Debug\netcoreapp2.2\ProblemOne.pdb
+D:\C#F_MID\MID\ProblemOne\obj\Debug\netcoreapp2.2\ProblemOne.csprojAssemblyReference.cache
+D:\C#F_MID\MID\ProblemOne\obj\Debug\netcoreapp2.2\ProblemOne.csproj.CoreCompileInputs.cache
+D:\C#F_MID\MID\ProblemOne\obj\Debug\netcoreapp2.2\ProblemOne.AssemblyInfoInputs.cache
+D:\C#F_MID\MID\ProblemOne\obj\Debug\netcoreapp2.2\ProblemOne.AssemblyInfo.cs
+D:\C#F_MID\MID\ProblemOne\obj\Debug\netcoreapp2.2\ProblemOne.dll
+D:\C#F_MID\MID\ProblemOne\obj\Debug\netcoreapp2.2\ProblemOne.pdb

@@ -1,0 +1,10 @@
+D:\C#F_MID\MID\steps\bin\Debug\netcoreapp2.2\steps.deps.json
+D:\C#F_MID\MID\steps\bin\Debug\netcoreapp2.2\steps.runtimeconfig.json
+D:\C#F_MID\MID\steps\bin\Debug\netcoreapp2.2\steps.runtimeconfig.dev.json
+D:\C#F_MID\MID\steps\bin\Debug\netcoreapp2.2\steps.dll
+D:\C#F_MID\MID\steps\bin\Debug\netcoreapp2.2\steps.pdb
+D:\C#F_MID\MID\steps\obj\Debug\netcoreapp2.2\steps.csproj.CoreCompileInputs.cache
+D:\C#F_MID\MID\steps\obj\Debug\netcoreapp2.2\steps.AssemblyInfoInputs.cache
+D:\C#F_MID\MID\steps\obj\Debug\netcoreapp2.2\steps.AssemblyInfo.cs
+D:\C#F_MID\MID\steps\obj\Debug\netcoreapp2.2\steps.dll
+D:\C#F_MID\MID\steps\obj\Debug\netcoreapp2.2\steps.pdb

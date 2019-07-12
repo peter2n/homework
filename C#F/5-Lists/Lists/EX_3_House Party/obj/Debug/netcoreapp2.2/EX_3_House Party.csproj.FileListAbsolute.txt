@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_3_House Party\obj\Debug\netcoreapp2.2\EX_3_House Party.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_3_House Party\obj\Debug\netcoreapp2.2\EX_3_House Party.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_3_House Party\obj\Debug\netcoreapp2.2\EX_3_House Party.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_3_House Party\obj\Debug\netcoreapp2.2\EX_3_House Party.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_3_House Party\bin\Debug\netcoreapp2.2\EX_3_House Party.deps.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_3_House Party\bin\Debug\netcoreapp2.2\EX_3_House Party.runtimeconfig.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_3_House Party\bin\Debug\netcoreapp2.2\EX_3_House Party.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_3_House Party\bin\Debug\netcoreapp2.2\EX_3_House Party.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_3_House Party\bin\Debug\netcoreapp2.2\EX_3_House Party.pdb
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_3_House Party\obj\Debug\netcoreapp2.2\EX_3_House Party.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_3_House Party\obj\Debug\netcoreapp2.2\EX_3_House Party.pdb

@@ -1,0 +1,11 @@
+D:\C#F_MID\MID\ProblemThree\bin\Debug\netcoreapp2.2\ProblemThree.deps.json
+D:\C#F_MID\MID\ProblemThree\bin\Debug\netcoreapp2.2\ProblemThree.runtimeconfig.json
+D:\C#F_MID\MID\ProblemThree\bin\Debug\netcoreapp2.2\ProblemThree.runtimeconfig.dev.json
+D:\C#F_MID\MID\ProblemThree\bin\Debug\netcoreapp2.2\ProblemThree.dll
+D:\C#F_MID\MID\ProblemThree\bin\Debug\netcoreapp2.2\ProblemThree.pdb
+D:\C#F_MID\MID\ProblemThree\obj\Debug\netcoreapp2.2\ProblemThree.csprojAssemblyReference.cache
+D:\C#F_MID\MID\ProblemThree\obj\Debug\netcoreapp2.2\ProblemThree.csproj.CoreCompileInputs.cache
+D:\C#F_MID\MID\ProblemThree\obj\Debug\netcoreapp2.2\ProblemThree.AssemblyInfoInputs.cache
+D:\C#F_MID\MID\ProblemThree\obj\Debug\netcoreapp2.2\ProblemThree.AssemblyInfo.cs
+D:\C#F_MID\MID\ProblemThree\obj\Debug\netcoreapp2.2\ProblemThree.dll
+D:\C#F_MID\MID\ProblemThree\obj\Debug\netcoreapp2.2\ProblemThree.pdb

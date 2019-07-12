@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_2_Change List\bin\Debug\netcoreapp2.2\EX_2_Change List.deps.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_2_Change List\bin\Debug\netcoreapp2.2\EX_2_Change List.runtimeconfig.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_2_Change List\bin\Debug\netcoreapp2.2\EX_2_Change List.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_2_Change List\bin\Debug\netcoreapp2.2\EX_2_Change List.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_2_Change List\bin\Debug\netcoreapp2.2\EX_2_Change List.pdb
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_2_Change List\obj\Debug\netcoreapp2.2\EX_2_Change List.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_2_Change List\obj\Debug\netcoreapp2.2\EX_2_Change List.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_2_Change List\obj\Debug\netcoreapp2.2\EX_2_Change List.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_2_Change List\obj\Debug\netcoreapp2.2\EX_2_Change List.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_2_Change List\obj\Debug\netcoreapp2.2\EX_2_Change List.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_2_Change List\obj\Debug\netcoreapp2.2\EX_2_Change List.pdb

@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\5-Lists\Lists\Lists\bin\Debug\netcoreapp2.2\EX_1_Train.deps.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\Lists\bin\Debug\netcoreapp2.2\EX_1_Train.runtimeconfig.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\Lists\bin\Debug\netcoreapp2.2\EX_1_Train.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\Lists\bin\Debug\netcoreapp2.2\EX_1_Train.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\Lists\bin\Debug\netcoreapp2.2\EX_1_Train.pdb
+D:\TORTOISE\homework\C#F\5-Lists\Lists\Lists\obj\Debug\netcoreapp2.2\EX_1_Train.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\Lists\obj\Debug\netcoreapp2.2\EX_1_Train.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\Lists\obj\Debug\netcoreapp2.2\EX_1_Train.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\Lists\obj\Debug\netcoreapp2.2\EX_1_Train.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\5-Lists\Lists\Lists\obj\Debug\netcoreapp2.2\EX_1_Train.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\Lists\obj\Debug\netcoreapp2.2\EX_1_Train.pdb

@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_5_Word Filter\bin\Debug\netcoreapp2.2\LAB_5_Word Filter.deps.json
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_5_Word Filter\bin\Debug\netcoreapp2.2\LAB_5_Word Filter.runtimeconfig.json
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_5_Word Filter\bin\Debug\netcoreapp2.2\LAB_5_Word Filter.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_5_Word Filter\bin\Debug\netcoreapp2.2\LAB_5_Word Filter.dll
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_5_Word Filter\bin\Debug\netcoreapp2.2\LAB_5_Word Filter.pdb
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_5_Word Filter\obj\Debug\netcoreapp2.2\LAB_5_Word Filter.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_5_Word Filter\obj\Debug\netcoreapp2.2\LAB_5_Word Filter.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_5_Word Filter\obj\Debug\netcoreapp2.2\LAB_5_Word Filter.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_5_Word Filter\obj\Debug\netcoreapp2.2\LAB_5_Word Filter.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_5_Word Filter\obj\Debug\netcoreapp2.2\LAB_5_Word Filter.dll
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_5_Word Filter\obj\Debug\netcoreapp2.2\LAB_5_Word Filter.pdb

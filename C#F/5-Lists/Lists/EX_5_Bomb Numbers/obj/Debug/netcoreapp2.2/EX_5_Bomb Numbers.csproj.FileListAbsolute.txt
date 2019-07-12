@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_5_Bomb Numbers\bin\Debug\netcoreapp2.2\EX_5_Bomb Numbers.deps.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_5_Bomb Numbers\bin\Debug\netcoreapp2.2\EX_5_Bomb Numbers.runtimeconfig.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_5_Bomb Numbers\bin\Debug\netcoreapp2.2\EX_5_Bomb Numbers.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_5_Bomb Numbers\bin\Debug\netcoreapp2.2\EX_5_Bomb Numbers.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_5_Bomb Numbers\bin\Debug\netcoreapp2.2\EX_5_Bomb Numbers.pdb
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_5_Bomb Numbers\obj\Debug\netcoreapp2.2\EX_5_Bomb Numbers.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_5_Bomb Numbers\obj\Debug\netcoreapp2.2\EX_5_Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_5_Bomb Numbers\obj\Debug\netcoreapp2.2\EX_5_Bomb Numbers.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_5_Bomb Numbers\obj\Debug\netcoreapp2.2\EX_5_Bomb Numbers.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_5_Bomb Numbers\obj\Debug\netcoreapp2.2\EX_5_Bomb Numbers.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_5_Bomb Numbers\obj\Debug\netcoreapp2.2\EX_5_Bomb Numbers.pdb

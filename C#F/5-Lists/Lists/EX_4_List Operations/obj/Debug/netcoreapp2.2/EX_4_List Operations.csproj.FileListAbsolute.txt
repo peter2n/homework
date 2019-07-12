@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_4_List Operations\bin\Debug\netcoreapp2.2\EX_4_List Operations.deps.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_4_List Operations\bin\Debug\netcoreapp2.2\EX_4_List Operations.runtimeconfig.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_4_List Operations\bin\Debug\netcoreapp2.2\EX_4_List Operations.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_4_List Operations\bin\Debug\netcoreapp2.2\EX_4_List Operations.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_4_List Operations\bin\Debug\netcoreapp2.2\EX_4_List Operations.pdb
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_4_List Operations\obj\Debug\netcoreapp2.2\EX_4_List Operations.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_4_List Operations\obj\Debug\netcoreapp2.2\EX_4_List Operations.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_4_List Operations\obj\Debug\netcoreapp2.2\EX_4_List Operations.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_4_List Operations\obj\Debug\netcoreapp2.2\EX_4_List Operations.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_4_List Operations\obj\Debug\netcoreapp2.2\EX_4_List Operations.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_4_List Operations\obj\Debug\netcoreapp2.2\EX_4_List Operations.pdb

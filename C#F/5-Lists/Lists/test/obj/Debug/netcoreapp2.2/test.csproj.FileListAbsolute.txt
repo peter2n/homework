@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\5-Lists\Lists\test\bin\Debug\netcoreapp2.2\test.deps.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\test\bin\Debug\netcoreapp2.2\test.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\test\bin\Debug\netcoreapp2.2\test.pdb
+D:\TORTOISE\homework\C#F\5-Lists\Lists\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\test\obj\Debug\netcoreapp2.2\test.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\5-Lists\Lists\test\obj\Debug\netcoreapp2.2\test.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\test\obj\Debug\netcoreapp2.2\test.pdb

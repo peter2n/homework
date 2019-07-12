@@ -1,0 +1,11 @@
+D:\C#F_MID\MID\ProblemTwo\obj\Debug\netcoreapp2.2\ProblemTwo.csprojAssemblyReference.cache
+D:\C#F_MID\MID\ProblemTwo\obj\Debug\netcoreapp2.2\ProblemTwo.csproj.CoreCompileInputs.cache
+D:\C#F_MID\MID\ProblemTwo\obj\Debug\netcoreapp2.2\ProblemTwo.AssemblyInfoInputs.cache
+D:\C#F_MID\MID\ProblemTwo\obj\Debug\netcoreapp2.2\ProblemTwo.AssemblyInfo.cs
+D:\C#F_MID\MID\ProblemTwo\bin\Debug\netcoreapp2.2\ProblemTwo.deps.json
+D:\C#F_MID\MID\ProblemTwo\bin\Debug\netcoreapp2.2\ProblemTwo.runtimeconfig.json
+D:\C#F_MID\MID\ProblemTwo\bin\Debug\netcoreapp2.2\ProblemTwo.runtimeconfig.dev.json
+D:\C#F_MID\MID\ProblemTwo\bin\Debug\netcoreapp2.2\ProblemTwo.dll
+D:\C#F_MID\MID\ProblemTwo\bin\Debug\netcoreapp2.2\ProblemTwo.pdb
+D:\C#F_MID\MID\ProblemTwo\obj\Debug\netcoreapp2.2\ProblemTwo.dll
+D:\C#F_MID\MID\ProblemTwo\obj\Debug\netcoreapp2.2\ProblemTwo.pdb

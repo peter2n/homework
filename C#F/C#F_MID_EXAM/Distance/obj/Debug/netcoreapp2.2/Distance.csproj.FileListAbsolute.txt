@@ -1,0 +1,10 @@
+D:\C#F_MID\MID\Distance\bin\Debug\netcoreapp2.2\Distance.deps.json
+D:\C#F_MID\MID\Distance\bin\Debug\netcoreapp2.2\Distance.runtimeconfig.json
+D:\C#F_MID\MID\Distance\bin\Debug\netcoreapp2.2\Distance.runtimeconfig.dev.json
+D:\C#F_MID\MID\Distance\bin\Debug\netcoreapp2.2\Distance.dll
+D:\C#F_MID\MID\Distance\bin\Debug\netcoreapp2.2\Distance.pdb
+D:\C#F_MID\MID\Distance\obj\Debug\netcoreapp2.2\Distance.csproj.CoreCompileInputs.cache
+D:\C#F_MID\MID\Distance\obj\Debug\netcoreapp2.2\Distance.AssemblyInfoInputs.cache
+D:\C#F_MID\MID\Distance\obj\Debug\netcoreapp2.2\Distance.AssemblyInfo.cs
+D:\C#F_MID\MID\Distance\obj\Debug\netcoreapp2.2\Distance.dll
+D:\C#F_MID\MID\Distance\obj\Debug\netcoreapp2.2\Distance.pdb

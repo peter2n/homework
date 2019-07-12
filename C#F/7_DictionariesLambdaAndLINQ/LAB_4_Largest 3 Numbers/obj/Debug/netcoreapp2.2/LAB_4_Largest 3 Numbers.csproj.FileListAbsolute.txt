@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_4_Largest 3 Numbers\bin\Debug\netcoreapp2.2\LAB_4_Largest 3 Numbers.deps.json
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_4_Largest 3 Numbers\bin\Debug\netcoreapp2.2\LAB_4_Largest 3 Numbers.runtimeconfig.json
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_4_Largest 3 Numbers\bin\Debug\netcoreapp2.2\LAB_4_Largest 3 Numbers.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_4_Largest 3 Numbers\bin\Debug\netcoreapp2.2\LAB_4_Largest 3 Numbers.dll
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_4_Largest 3 Numbers\bin\Debug\netcoreapp2.2\LAB_4_Largest 3 Numbers.pdb
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_4_Largest 3 Numbers\obj\Debug\netcoreapp2.2\LAB_4_Largest 3 Numbers.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_4_Largest 3 Numbers\obj\Debug\netcoreapp2.2\LAB_4_Largest 3 Numbers.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_4_Largest 3 Numbers\obj\Debug\netcoreapp2.2\LAB_4_Largest 3 Numbers.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_4_Largest 3 Numbers\obj\Debug\netcoreapp2.2\LAB_4_Largest 3 Numbers.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_4_Largest 3 Numbers\obj\Debug\netcoreapp2.2\LAB_4_Largest 3 Numbers.dll
+D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\LAB_4_Largest 3 Numbers\obj\Debug\netcoreapp2.2\LAB_4_Largest 3 Numbers.pdb

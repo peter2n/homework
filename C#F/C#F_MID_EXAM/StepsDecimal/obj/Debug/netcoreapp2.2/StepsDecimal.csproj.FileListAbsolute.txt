@@ -1,0 +1,10 @@
+D:\C#F_MID\MID\StepsDecimal\bin\Debug\netcoreapp2.2\StepsDecimal.deps.json
+D:\C#F_MID\MID\StepsDecimal\bin\Debug\netcoreapp2.2\StepsDecimal.runtimeconfig.json
+D:\C#F_MID\MID\StepsDecimal\bin\Debug\netcoreapp2.2\StepsDecimal.runtimeconfig.dev.json
+D:\C#F_MID\MID\StepsDecimal\bin\Debug\netcoreapp2.2\StepsDecimal.dll
+D:\C#F_MID\MID\StepsDecimal\bin\Debug\netcoreapp2.2\StepsDecimal.pdb
+D:\C#F_MID\MID\StepsDecimal\obj\Debug\netcoreapp2.2\StepsDecimal.csproj.CoreCompileInputs.cache
+D:\C#F_MID\MID\StepsDecimal\obj\Debug\netcoreapp2.2\StepsDecimal.AssemblyInfoInputs.cache
+D:\C#F_MID\MID\StepsDecimal\obj\Debug\netcoreapp2.2\StepsDecimal.AssemblyInfo.cs
+D:\C#F_MID\MID\StepsDecimal\obj\Debug\netcoreapp2.2\StepsDecimal.dll
+D:\C#F_MID\MID\StepsDecimal\obj\Debug\netcoreapp2.2\StepsDecimal.pdb

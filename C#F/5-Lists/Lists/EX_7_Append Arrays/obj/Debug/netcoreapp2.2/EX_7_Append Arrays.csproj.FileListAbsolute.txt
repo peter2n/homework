@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_7_Append Arrays\bin\Debug\netcoreapp2.2\EX_7_Append Arrays.deps.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_7_Append Arrays\bin\Debug\netcoreapp2.2\EX_7_Append Arrays.runtimeconfig.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_7_Append Arrays\bin\Debug\netcoreapp2.2\EX_7_Append Arrays.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_7_Append Arrays\bin\Debug\netcoreapp2.2\EX_7_Append Arrays.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_7_Append Arrays\bin\Debug\netcoreapp2.2\EX_7_Append Arrays.pdb
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_7_Append Arrays\obj\Debug\netcoreapp2.2\EX_7_Append Arrays.csprojAssemblyReference.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_7_Append Arrays\obj\Debug\netcoreapp2.2\EX_7_Append Arrays.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_7_Append Arrays\obj\Debug\netcoreapp2.2\EX_7_Append Arrays.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_7_Append Arrays\obj\Debug\netcoreapp2.2\EX_7_Append Arrays.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_7_Append Arrays\obj\Debug\netcoreapp2.2\EX_7_Append Arrays.dll
+D:\TORTOISE\homework\C#F\5-Lists\Lists\EX_7_Append Arrays\obj\Debug\netcoreapp2.2\EX_7_Append Arrays.pdb

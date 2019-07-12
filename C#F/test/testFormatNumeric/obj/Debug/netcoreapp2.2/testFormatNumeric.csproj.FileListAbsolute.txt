@@ -1,0 +1,11 @@
+D:\TORTOISE\homework\C#F\test\testFormatNumeric\bin\Debug\netcoreapp2.2\testFormatNumeric.deps.json
+D:\TORTOISE\homework\C#F\test\testFormatNumeric\bin\Debug\netcoreapp2.2\testFormatNumeric.runtimeconfig.json
+D:\TORTOISE\homework\C#F\test\testFormatNumeric\bin\Debug\netcoreapp2.2\testFormatNumeric.runtimeconfig.dev.json
+D:\TORTOISE\homework\C#F\test\testFormatNumeric\bin\Debug\netcoreapp2.2\testFormatNumeric.dll
+D:\TORTOISE\homework\C#F\test\testFormatNumeric\bin\Debug\netcoreapp2.2\testFormatNumeric.pdb
+D:\TORTOISE\homework\C#F\test\testFormatNumeric\obj\Debug\netcoreapp2.2\testFormatNumeric.csproj.CoreCompileInputs.cache
+D:\TORTOISE\homework\C#F\test\testFormatNumeric\obj\Debug\netcoreapp2.2\testFormatNumeric.AssemblyInfoInputs.cache
+D:\TORTOISE\homework\C#F\test\testFormatNumeric\obj\Debug\netcoreapp2.2\testFormatNumeric.AssemblyInfo.cs
+D:\TORTOISE\homework\C#F\test\testFormatNumeric\obj\Debug\netcoreapp2.2\testFormatNumeric.dll
+D:\TORTOISE\homework\C#F\test\testFormatNumeric\obj\Debug\netcoreapp2.2\testFormatNumeric.pdb
+D:\TORTOISE\homework\C#F\test\testFormatNumeric\obj\Debug\netcoreapp2.2\testFormatNumeric.csprojAssemblyReference.cache
