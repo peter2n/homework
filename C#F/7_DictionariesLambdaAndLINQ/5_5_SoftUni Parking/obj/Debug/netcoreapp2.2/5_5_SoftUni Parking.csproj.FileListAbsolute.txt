@@ -1,0 +1,10 @@
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\5_5_SoftUni Parking\obj\Debug\netcoreapp2.2\5_5_SoftUni Parking.csproj.CoreCompileInputs.cache
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\5_5_SoftUni Parking\obj\Debug\netcoreapp2.2\5_5_SoftUni Parking.AssemblyInfoInputs.cache
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\5_5_SoftUni Parking\obj\Debug\netcoreapp2.2\5_5_SoftUni Parking.AssemblyInfo.cs
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\5_5_SoftUni Parking\bin\Debug\netcoreapp2.2\5_5_SoftUni Parking.deps.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\5_5_SoftUni Parking\bin\Debug\netcoreapp2.2\5_5_SoftUni Parking.runtimeconfig.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\5_5_SoftUni Parking\bin\Debug\netcoreapp2.2\5_5_SoftUni Parking.runtimeconfig.dev.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\5_5_SoftUni Parking\bin\Debug\netcoreapp2.2\5_5_SoftUni Parking.dll
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\5_5_SoftUni Parking\bin\Debug\netcoreapp2.2\5_5_SoftUni Parking.pdb
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\5_5_SoftUni Parking\obj\Debug\netcoreapp2.2\5_5_SoftUni Parking.dll
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\5_5_SoftUni Parking\obj\Debug\netcoreapp2.2\5_5_SoftUni Parking.pdb

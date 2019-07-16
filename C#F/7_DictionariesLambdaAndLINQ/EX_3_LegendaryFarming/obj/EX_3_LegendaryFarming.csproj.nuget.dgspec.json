@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_3_LegendaryFarming\\EX_3_LegendaryFarming.csproj": {}
+    "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_3_LegendaryFarming\\EX_3_LegendaryFarming.csproj": {}
   },
   "projects": {
-    "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_3_LegendaryFarming\\EX_3_LegendaryFarming.csproj": {
+    "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_3_LegendaryFarming\\EX_3_LegendaryFarming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_3_LegendaryFarming\\EX_3_LegendaryFarming.csproj",
+        "projectUniqueName": "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_3_LegendaryFarming\\EX_3_LegendaryFarming.csproj",
         "projectName": "EX_3_LegendaryFarming",
-        "projectPath": "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_3_LegendaryFarming\\EX_3_LegendaryFarming.csproj",
-        "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
-        "outputPath": "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_3_LegendaryFarming\\obj\\",
+        "projectPath": "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_3_LegendaryFarming\\EX_3_LegendaryFarming.csproj",
+        "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
+        "outputPath": "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_3_LegendaryFarming\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

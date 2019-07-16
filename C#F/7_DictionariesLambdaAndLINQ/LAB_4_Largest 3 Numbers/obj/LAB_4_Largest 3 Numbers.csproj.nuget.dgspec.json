@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\LAB_4_Largest 3 Numbers\\LAB_4_Largest 3 Numbers.csproj": {}
+    "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\LAB_4_Largest 3 Numbers\\LAB_4_Largest 3 Numbers.csproj": {}
   },
   "projects": {
-    "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\LAB_4_Largest 3 Numbers\\LAB_4_Largest 3 Numbers.csproj": {
+    "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\LAB_4_Largest 3 Numbers\\LAB_4_Largest 3 Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\LAB_4_Largest 3 Numbers\\LAB_4_Largest 3 Numbers.csproj",
+        "projectUniqueName": "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\LAB_4_Largest 3 Numbers\\LAB_4_Largest 3 Numbers.csproj",
         "projectName": "LAB_4_Largest 3 Numbers",
-        "projectPath": "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\LAB_4_Largest 3 Numbers\\LAB_4_Largest 3 Numbers.csproj",
-        "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
-        "outputPath": "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\LAB_4_Largest 3 Numbers\\obj\\",
+        "projectPath": "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\LAB_4_Largest 3 Numbers\\LAB_4_Largest 3 Numbers.csproj",
+        "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
+        "outputPath": "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\LAB_4_Largest 3 Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

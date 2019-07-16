@@ -1,0 +1,11 @@
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_4_Orders\bin\Debug\netcoreapp2.2\EX_4_Orders.deps.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_4_Orders\bin\Debug\netcoreapp2.2\EX_4_Orders.runtimeconfig.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_4_Orders\bin\Debug\netcoreapp2.2\EX_4_Orders.runtimeconfig.dev.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_4_Orders\bin\Debug\netcoreapp2.2\EX_4_Orders.dll
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_4_Orders\bin\Debug\netcoreapp2.2\EX_4_Orders.pdb
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_4_Orders\obj\Debug\netcoreapp2.2\EX_4_Orders.csprojAssemblyReference.cache
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_4_Orders\obj\Debug\netcoreapp2.2\EX_4_Orders.csproj.CoreCompileInputs.cache
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_4_Orders\obj\Debug\netcoreapp2.2\EX_4_Orders.AssemblyInfoInputs.cache
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_4_Orders\obj\Debug\netcoreapp2.2\EX_4_Orders.AssemblyInfo.cs
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_4_Orders\obj\Debug\netcoreapp2.2\EX_4_Orders.dll
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_4_Orders\obj\Debug\netcoreapp2.2\EX_4_Orders.pdb

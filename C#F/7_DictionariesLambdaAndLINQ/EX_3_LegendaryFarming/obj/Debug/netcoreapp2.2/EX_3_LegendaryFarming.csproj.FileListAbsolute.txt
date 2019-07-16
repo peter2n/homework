@@ -9,3 +9,14 @@ D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\obj\D
 D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\obj\Debug\netcoreapp2.2\EX_3_LegendaryFarming.AssemblyInfo.cs
 D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\obj\Debug\netcoreapp2.2\EX_3_LegendaryFarming.dll
 D:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\obj\Debug\netcoreapp2.2\EX_3_LegendaryFarming.pdb
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\bin\Debug\netcoreapp2.2\EX_3_LegendaryFarming.deps.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\bin\Debug\netcoreapp2.2\EX_3_LegendaryFarming.runtimeconfig.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\bin\Debug\netcoreapp2.2\EX_3_LegendaryFarming.runtimeconfig.dev.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\bin\Debug\netcoreapp2.2\EX_3_LegendaryFarming.dll
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\bin\Debug\netcoreapp2.2\EX_3_LegendaryFarming.pdb
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\obj\Debug\netcoreapp2.2\EX_3_LegendaryFarming.csprojAssemblyReference.cache
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\obj\Debug\netcoreapp2.2\EX_3_LegendaryFarming.csproj.CoreCompileInputs.cache
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\obj\Debug\netcoreapp2.2\EX_3_LegendaryFarming.AssemblyInfoInputs.cache
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\obj\Debug\netcoreapp2.2\EX_3_LegendaryFarming.AssemblyInfo.cs
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\obj\Debug\netcoreapp2.2\EX_3_LegendaryFarming.dll
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_3_LegendaryFarming\obj\Debug\netcoreapp2.2\EX_3_LegendaryFarming.pdb

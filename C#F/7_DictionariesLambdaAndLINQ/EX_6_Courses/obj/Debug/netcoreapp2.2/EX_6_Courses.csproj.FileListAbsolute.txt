@@ -1,0 +1,11 @@
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_6_Courses\bin\Debug\netcoreapp2.2\EX_6_Courses.deps.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_6_Courses\bin\Debug\netcoreapp2.2\EX_6_Courses.runtimeconfig.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_6_Courses\bin\Debug\netcoreapp2.2\EX_6_Courses.runtimeconfig.dev.json
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_6_Courses\bin\Debug\netcoreapp2.2\EX_6_Courses.dll
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_6_Courses\bin\Debug\netcoreapp2.2\EX_6_Courses.pdb
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_6_Courses\obj\Debug\netcoreapp2.2\EX_6_Courses.csprojAssemblyReference.cache
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_6_Courses\obj\Debug\netcoreapp2.2\EX_6_Courses.csproj.CoreCompileInputs.cache
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_6_Courses\obj\Debug\netcoreapp2.2\EX_6_Courses.AssemblyInfoInputs.cache
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_6_Courses\obj\Debug\netcoreapp2.2\EX_6_Courses.AssemblyInfo.cs
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_6_Courses\obj\Debug\netcoreapp2.2\EX_6_Courses.dll
+E:\TORTOISE\homework\C#F\7_DictionariesLambdaAndLINQ\EX_6_Courses\obj\Debug\netcoreapp2.2\EX_6_Courses.pdb

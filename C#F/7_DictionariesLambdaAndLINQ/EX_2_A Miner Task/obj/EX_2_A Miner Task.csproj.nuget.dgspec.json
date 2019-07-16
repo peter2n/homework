@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_2_A Miner Task\\EX_2_A Miner Task.csproj": {}
+    "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_2_A Miner Task\\EX_2_A Miner Task.csproj": {}
   },
   "projects": {
-    "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_2_A Miner Task\\EX_2_A Miner Task.csproj": {
+    "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_2_A Miner Task\\EX_2_A Miner Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_2_A Miner Task\\EX_2_A Miner Task.csproj",
+        "projectUniqueName": "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_2_A Miner Task\\EX_2_A Miner Task.csproj",
         "projectName": "EX_2_A Miner Task",
-        "projectPath": "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_2_A Miner Task\\EX_2_A Miner Task.csproj",
-        "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
-        "outputPath": "D:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_2_A Miner Task\\obj\\",
+        "projectPath": "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_2_A Miner Task\\EX_2_A Miner Task.csproj",
+        "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
+        "outputPath": "E:\\TORTOISE\\homework\\C#F\\7_DictionariesLambdaAndLINQ\\EX_2_A Miner Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
