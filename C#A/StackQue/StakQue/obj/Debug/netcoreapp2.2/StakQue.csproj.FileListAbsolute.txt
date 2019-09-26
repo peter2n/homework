@@ -1,0 +1,11 @@
+E:\TORTOSE\homework\C#A\StackQue\StakQue\bin\Debug\netcoreapp2.2\StakQue.deps.json
+E:\TORTOSE\homework\C#A\StackQue\StakQue\bin\Debug\netcoreapp2.2\StakQue.runtimeconfig.json
+E:\TORTOSE\homework\C#A\StackQue\StakQue\bin\Debug\netcoreapp2.2\StakQue.runtimeconfig.dev.json
+E:\TORTOSE\homework\C#A\StackQue\StakQue\bin\Debug\netcoreapp2.2\StakQue.dll
+E:\TORTOSE\homework\C#A\StackQue\StakQue\bin\Debug\netcoreapp2.2\StakQue.pdb
+E:\TORTOSE\homework\C#A\StackQue\StakQue\obj\Debug\netcoreapp2.2\StakQue.csprojAssemblyReference.cache
+E:\TORTOSE\homework\C#A\StackQue\StakQue\obj\Debug\netcoreapp2.2\StakQue.csproj.CoreCompileInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\StakQue\obj\Debug\netcoreapp2.2\StakQue.AssemblyInfoInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\StakQue\obj\Debug\netcoreapp2.2\StakQue.AssemblyInfo.cs
+E:\TORTOSE\homework\C#A\StackQue\StakQue\obj\Debug\netcoreapp2.2\StakQue.dll
+E:\TORTOSE\homework\C#A\StackQue\StakQue\obj\Debug\netcoreapp2.2\StakQue.pdb

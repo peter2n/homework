@@ -1,0 +1,11 @@
+E:\TORTOSE\homework\C#A\StackQue\EX_1_BasicOp\obj\Debug\netcoreapp2.2\EX_1_BasicOp.csproj.CoreCompileInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\EX_1_BasicOp\obj\Debug\netcoreapp2.2\EX_1_BasicOp.AssemblyInfoInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\EX_1_BasicOp\obj\Debug\netcoreapp2.2\EX_1_BasicOp.AssemblyInfo.cs
+E:\TORTOSE\homework\C#A\StackQue\EX_1_BasicOp\bin\Debug\netcoreapp2.2\EX_1_BasicOp.deps.json
+E:\TORTOSE\homework\C#A\StackQue\EX_1_BasicOp\bin\Debug\netcoreapp2.2\EX_1_BasicOp.runtimeconfig.json
+E:\TORTOSE\homework\C#A\StackQue\EX_1_BasicOp\bin\Debug\netcoreapp2.2\EX_1_BasicOp.runtimeconfig.dev.json
+E:\TORTOSE\homework\C#A\StackQue\EX_1_BasicOp\bin\Debug\netcoreapp2.2\EX_1_BasicOp.dll
+E:\TORTOSE\homework\C#A\StackQue\EX_1_BasicOp\bin\Debug\netcoreapp2.2\EX_1_BasicOp.pdb
+E:\TORTOSE\homework\C#A\StackQue\EX_1_BasicOp\obj\Debug\netcoreapp2.2\EX_1_BasicOp.dll
+E:\TORTOSE\homework\C#A\StackQue\EX_1_BasicOp\obj\Debug\netcoreapp2.2\EX_1_BasicOp.pdb
+E:\TORTOSE\homework\C#A\StackQue\EX_1_BasicOp\obj\Debug\netcoreapp2.2\EX_1_BasicOp.csprojAssemblyReference.cache
