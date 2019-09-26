@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_5_Fashion Boutique\\EX_5_Fashion Boutique.csproj": {}
+    "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_5_Fashion Boutique\\EX_5_Fashion Boutique.csproj": {}
   },
   "projects": {
-    "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_5_Fashion Boutique\\EX_5_Fashion Boutique.csproj": {
+    "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_5_Fashion Boutique\\EX_5_Fashion Boutique.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_5_Fashion Boutique\\EX_5_Fashion Boutique.csproj",
+        "projectUniqueName": "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_5_Fashion Boutique\\EX_5_Fashion Boutique.csproj",
         "projectName": "EX_5_Fashion Boutique",
-        "projectPath": "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_5_Fashion Boutique\\EX_5_Fashion Boutique.csproj",
-        "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
-        "outputPath": "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_5_Fashion Boutique\\obj\\",
+        "projectPath": "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_5_Fashion Boutique\\EX_5_Fashion Boutique.csproj",
+        "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
+        "outputPath": "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_5_Fashion Boutique\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

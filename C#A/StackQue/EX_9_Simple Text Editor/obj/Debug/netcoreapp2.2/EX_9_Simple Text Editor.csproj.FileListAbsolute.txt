@@ -1,0 +1,10 @@
+E:\TORTOSE\homework\C#A\StackQue\EX_9_Simple Text Editor\bin\Debug\netcoreapp2.2\EX_9_Simple Text Editor.deps.json
+E:\TORTOSE\homework\C#A\StackQue\EX_9_Simple Text Editor\bin\Debug\netcoreapp2.2\EX_9_Simple Text Editor.runtimeconfig.json
+E:\TORTOSE\homework\C#A\StackQue\EX_9_Simple Text Editor\bin\Debug\netcoreapp2.2\EX_9_Simple Text Editor.runtimeconfig.dev.json
+E:\TORTOSE\homework\C#A\StackQue\EX_9_Simple Text Editor\bin\Debug\netcoreapp2.2\EX_9_Simple Text Editor.dll
+E:\TORTOSE\homework\C#A\StackQue\EX_9_Simple Text Editor\bin\Debug\netcoreapp2.2\EX_9_Simple Text Editor.pdb
+E:\TORTOSE\homework\C#A\StackQue\EX_9_Simple Text Editor\obj\Debug\netcoreapp2.2\EX_9_Simple Text Editor.csproj.CoreCompileInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\EX_9_Simple Text Editor\obj\Debug\netcoreapp2.2\EX_9_Simple Text Editor.AssemblyInfoInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\EX_9_Simple Text Editor\obj\Debug\netcoreapp2.2\EX_9_Simple Text Editor.AssemblyInfo.cs
+E:\TORTOSE\homework\C#A\StackQue\EX_9_Simple Text Editor\obj\Debug\netcoreapp2.2\EX_9_Simple Text Editor.dll
+E:\TORTOSE\homework\C#A\StackQue\EX_9_Simple Text Editor\obj\Debug\netcoreapp2.2\EX_9_Simple Text Editor.pdb

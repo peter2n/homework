@@ -1,0 +1,11 @@
+E:\TORTOSE\homework\C#A\StackQue\EX_7_Truck Tour\bin\Debug\netcoreapp2.2\EX_7_Truck Tour.deps.json
+E:\TORTOSE\homework\C#A\StackQue\EX_7_Truck Tour\bin\Debug\netcoreapp2.2\EX_7_Truck Tour.runtimeconfig.json
+E:\TORTOSE\homework\C#A\StackQue\EX_7_Truck Tour\bin\Debug\netcoreapp2.2\EX_7_Truck Tour.runtimeconfig.dev.json
+E:\TORTOSE\homework\C#A\StackQue\EX_7_Truck Tour\bin\Debug\netcoreapp2.2\EX_7_Truck Tour.dll
+E:\TORTOSE\homework\C#A\StackQue\EX_7_Truck Tour\bin\Debug\netcoreapp2.2\EX_7_Truck Tour.pdb
+E:\TORTOSE\homework\C#A\StackQue\EX_7_Truck Tour\obj\Debug\netcoreapp2.2\EX_7_Truck Tour.csprojAssemblyReference.cache
+E:\TORTOSE\homework\C#A\StackQue\EX_7_Truck Tour\obj\Debug\netcoreapp2.2\EX_7_Truck Tour.csproj.CoreCompileInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\EX_7_Truck Tour\obj\Debug\netcoreapp2.2\EX_7_Truck Tour.AssemblyInfoInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\EX_7_Truck Tour\obj\Debug\netcoreapp2.2\EX_7_Truck Tour.AssemblyInfo.cs
+E:\TORTOSE\homework\C#A\StackQue\EX_7_Truck Tour\obj\Debug\netcoreapp2.2\EX_7_Truck Tour.dll
+E:\TORTOSE\homework\C#A\StackQue\EX_7_Truck Tour\obj\Debug\netcoreapp2.2\EX_7_Truck Tour.pdb

@@ -1,0 +1,11 @@
+E:\TORTOSE\homework\C#A\StackQue\EX_81_Balanced_Parentheses\bin\Debug\netcoreapp2.2\EX_81_Balanced_Parentheses.deps.json
+E:\TORTOSE\homework\C#A\StackQue\EX_81_Balanced_Parentheses\bin\Debug\netcoreapp2.2\EX_81_Balanced_Parentheses.runtimeconfig.json
+E:\TORTOSE\homework\C#A\StackQue\EX_81_Balanced_Parentheses\bin\Debug\netcoreapp2.2\EX_81_Balanced_Parentheses.runtimeconfig.dev.json
+E:\TORTOSE\homework\C#A\StackQue\EX_81_Balanced_Parentheses\bin\Debug\netcoreapp2.2\EX_81_Balanced_Parentheses.dll
+E:\TORTOSE\homework\C#A\StackQue\EX_81_Balanced_Parentheses\bin\Debug\netcoreapp2.2\EX_81_Balanced_Parentheses.pdb
+E:\TORTOSE\homework\C#A\StackQue\EX_81_Balanced_Parentheses\obj\Debug\netcoreapp2.2\EX_81_Balanced_Parentheses.csproj.CoreCompileInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\EX_81_Balanced_Parentheses\obj\Debug\netcoreapp2.2\EX_81_Balanced_Parentheses.AssemblyInfoInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\EX_81_Balanced_Parentheses\obj\Debug\netcoreapp2.2\EX_81_Balanced_Parentheses.AssemblyInfo.cs
+E:\TORTOSE\homework\C#A\StackQue\EX_81_Balanced_Parentheses\obj\Debug\netcoreapp2.2\EX_81_Balanced_Parentheses.dll
+E:\TORTOSE\homework\C#A\StackQue\EX_81_Balanced_Parentheses\obj\Debug\netcoreapp2.2\EX_81_Balanced_Parentheses.pdb
+E:\TORTOSE\homework\C#A\StackQue\EX_81_Balanced_Parentheses\obj\Debug\netcoreapp2.2\EX_81_Balanced_Parentheses.csprojAssemblyReference.cache

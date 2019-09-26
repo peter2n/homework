@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\meAgain\\.nuget\\packages\\": {},
+    "C:\\Users\\len\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_3_Maximum and Minimum Element\\EX_3_Maximum and Minimum Element.csproj",
+      "projectUniqueName": "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_3_Maximum and Minimum Element\\EX_3_Maximum and Minimum Element.csproj",
       "projectName": "EX_3_Maximum and Minimum Element",
-      "projectPath": "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_3_Maximum and Minimum Element\\EX_3_Maximum and Minimum Element.csproj",
-      "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
-      "outputPath": "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_3_Maximum and Minimum Element\\obj\\",
+      "projectPath": "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_3_Maximum and Minimum Element\\EX_3_Maximum and Minimum Element.csproj",
+      "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
+      "outputPath": "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_3_Maximum and Minimum Element\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,0 +1,10 @@
+E:\TORTOSE\homework\C#A\StackQue\EX_8_Balanced Parentheses\bin\Debug\netcoreapp2.2\EX_8_Balanced Parentheses.deps.json
+E:\TORTOSE\homework\C#A\StackQue\EX_8_Balanced Parentheses\bin\Debug\netcoreapp2.2\EX_8_Balanced Parentheses.runtimeconfig.json
+E:\TORTOSE\homework\C#A\StackQue\EX_8_Balanced Parentheses\bin\Debug\netcoreapp2.2\EX_8_Balanced Parentheses.runtimeconfig.dev.json
+E:\TORTOSE\homework\C#A\StackQue\EX_8_Balanced Parentheses\bin\Debug\netcoreapp2.2\EX_8_Balanced Parentheses.dll
+E:\TORTOSE\homework\C#A\StackQue\EX_8_Balanced Parentheses\bin\Debug\netcoreapp2.2\EX_8_Balanced Parentheses.pdb
+E:\TORTOSE\homework\C#A\StackQue\EX_8_Balanced Parentheses\obj\Debug\netcoreapp2.2\EX_8_Balanced Parentheses.csproj.CoreCompileInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\EX_8_Balanced Parentheses\obj\Debug\netcoreapp2.2\EX_8_Balanced Parentheses.AssemblyInfoInputs.cache
+E:\TORTOSE\homework\C#A\StackQue\EX_8_Balanced Parentheses\obj\Debug\netcoreapp2.2\EX_8_Balanced Parentheses.AssemblyInfo.cs
+E:\TORTOSE\homework\C#A\StackQue\EX_8_Balanced Parentheses\obj\Debug\netcoreapp2.2\EX_8_Balanced Parentheses.dll
+E:\TORTOSE\homework\C#A\StackQue\EX_8_Balanced Parentheses\obj\Debug\netcoreapp2.2\EX_8_Balanced Parentheses.pdb
