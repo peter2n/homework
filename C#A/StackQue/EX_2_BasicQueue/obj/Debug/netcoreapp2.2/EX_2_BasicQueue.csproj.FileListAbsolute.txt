@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#A\StackQue\EX_2_BasicQueue\bin\Debug\netcoreapp2.2\EX_2_BasicQueue.deps.json
+D:\TORT-Home\homework\C#A\StackQue\EX_2_BasicQueue\bin\Debug\netcoreapp2.2\EX_2_BasicQueue.runtimeconfig.json
+D:\TORT-Home\homework\C#A\StackQue\EX_2_BasicQueue\bin\Debug\netcoreapp2.2\EX_2_BasicQueue.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#A\StackQue\EX_2_BasicQueue\bin\Debug\netcoreapp2.2\EX_2_BasicQueue.dll
+D:\TORT-Home\homework\C#A\StackQue\EX_2_BasicQueue\bin\Debug\netcoreapp2.2\EX_2_BasicQueue.pdb
+D:\TORT-Home\homework\C#A\StackQue\EX_2_BasicQueue\obj\Debug\netcoreapp2.2\EX_2_BasicQueue.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_2_BasicQueue\obj\Debug\netcoreapp2.2\EX_2_BasicQueue.csproj.CoreCompileInputs.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_2_BasicQueue\obj\Debug\netcoreapp2.2\EX_2_BasicQueue.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_2_BasicQueue\obj\Debug\netcoreapp2.2\EX_2_BasicQueue.AssemblyInfo.cs
+D:\TORT-Home\homework\C#A\StackQue\EX_2_BasicQueue\obj\Debug\netcoreapp2.2\EX_2_BasicQueue.dll
+D:\TORT-Home\homework\C#A\StackQue\EX_2_BasicQueue\obj\Debug\netcoreapp2.2\EX_2_BasicQueue.pdb

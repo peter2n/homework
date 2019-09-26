@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#A\StackQue\EX_6_Songs Queue\obj\Debug\netcoreapp2.2\EX_6_Songs Queue.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_6_Songs Queue\obj\Debug\netcoreapp2.2\EX_6_Songs Queue.csproj.CoreCompileInputs.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_6_Songs Queue\obj\Debug\netcoreapp2.2\EX_6_Songs Queue.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_6_Songs Queue\obj\Debug\netcoreapp2.2\EX_6_Songs Queue.AssemblyInfo.cs
+D:\TORT-Home\homework\C#A\StackQue\EX_6_Songs Queue\bin\Debug\netcoreapp2.2\EX_6_Songs Queue.deps.json
+D:\TORT-Home\homework\C#A\StackQue\EX_6_Songs Queue\bin\Debug\netcoreapp2.2\EX_6_Songs Queue.runtimeconfig.json
+D:\TORT-Home\homework\C#A\StackQue\EX_6_Songs Queue\bin\Debug\netcoreapp2.2\EX_6_Songs Queue.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#A\StackQue\EX_6_Songs Queue\bin\Debug\netcoreapp2.2\EX_6_Songs Queue.dll
+D:\TORT-Home\homework\C#A\StackQue\EX_6_Songs Queue\bin\Debug\netcoreapp2.2\EX_6_Songs Queue.pdb
+D:\TORT-Home\homework\C#A\StackQue\EX_6_Songs Queue\obj\Debug\netcoreapp2.2\EX_6_Songs Queue.dll
+D:\TORT-Home\homework\C#A\StackQue\EX_6_Songs Queue\obj\Debug\netcoreapp2.2\EX_6_Songs Queue.pdb

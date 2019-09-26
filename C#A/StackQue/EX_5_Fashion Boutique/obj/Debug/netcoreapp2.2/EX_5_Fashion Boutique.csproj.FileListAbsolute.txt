@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#A\StackQue\EX_5_Fashion Boutique\bin\Debug\netcoreapp2.2\EX_5_Fashion Boutique.deps.json
+D:\TORT-Home\homework\C#A\StackQue\EX_5_Fashion Boutique\bin\Debug\netcoreapp2.2\EX_5_Fashion Boutique.runtimeconfig.json
+D:\TORT-Home\homework\C#A\StackQue\EX_5_Fashion Boutique\bin\Debug\netcoreapp2.2\EX_5_Fashion Boutique.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#A\StackQue\EX_5_Fashion Boutique\bin\Debug\netcoreapp2.2\EX_5_Fashion Boutique.dll
+D:\TORT-Home\homework\C#A\StackQue\EX_5_Fashion Boutique\bin\Debug\netcoreapp2.2\EX_5_Fashion Boutique.pdb
+D:\TORT-Home\homework\C#A\StackQue\EX_5_Fashion Boutique\obj\Debug\netcoreapp2.2\EX_5_Fashion Boutique.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_5_Fashion Boutique\obj\Debug\netcoreapp2.2\EX_5_Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_5_Fashion Boutique\obj\Debug\netcoreapp2.2\EX_5_Fashion Boutique.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_5_Fashion Boutique\obj\Debug\netcoreapp2.2\EX_5_Fashion Boutique.AssemblyInfo.cs
+D:\TORT-Home\homework\C#A\StackQue\EX_5_Fashion Boutique\obj\Debug\netcoreapp2.2\EX_5_Fashion Boutique.dll
+D:\TORT-Home\homework\C#A\StackQue\EX_5_Fashion Boutique\obj\Debug\netcoreapp2.2\EX_5_Fashion Boutique.pdb

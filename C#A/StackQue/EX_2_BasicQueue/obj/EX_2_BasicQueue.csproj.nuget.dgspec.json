@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_2_BasicQueue\\EX_2_BasicQueue.csproj": {}
+    "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_2_BasicQueue\\EX_2_BasicQueue.csproj": {}
   },
   "projects": {
-    "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_2_BasicQueue\\EX_2_BasicQueue.csproj": {
+    "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_2_BasicQueue\\EX_2_BasicQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_2_BasicQueue\\EX_2_BasicQueue.csproj",
+        "projectUniqueName": "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_2_BasicQueue\\EX_2_BasicQueue.csproj",
         "projectName": "EX_2_BasicQueue",
-        "projectPath": "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_2_BasicQueue\\EX_2_BasicQueue.csproj",
-        "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
-        "outputPath": "E:\\TORTOSE\\homework\\C#A\\StackQue\\EX_2_BasicQueue\\obj\\",
+        "projectPath": "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_2_BasicQueue\\EX_2_BasicQueue.csproj",
+        "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
+        "outputPath": "D:\\TORT-Home\\homework\\C#A\\StackQue\\EX_2_BasicQueue\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

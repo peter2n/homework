@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#A\StackQue\EX_4_Fast Food\obj\Debug\netcoreapp2.2\EX_4_Fast Food.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_4_Fast Food\obj\Debug\netcoreapp2.2\EX_4_Fast Food.csproj.CoreCompileInputs.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_4_Fast Food\obj\Debug\netcoreapp2.2\EX_4_Fast Food.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#A\StackQue\EX_4_Fast Food\obj\Debug\netcoreapp2.2\EX_4_Fast Food.AssemblyInfo.cs
+D:\TORT-Home\homework\C#A\StackQue\EX_4_Fast Food\bin\Debug\netcoreapp2.2\EX_4_Fast Food.deps.json
+D:\TORT-Home\homework\C#A\StackQue\EX_4_Fast Food\bin\Debug\netcoreapp2.2\EX_4_Fast Food.runtimeconfig.json
+D:\TORT-Home\homework\C#A\StackQue\EX_4_Fast Food\bin\Debug\netcoreapp2.2\EX_4_Fast Food.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#A\StackQue\EX_4_Fast Food\bin\Debug\netcoreapp2.2\EX_4_Fast Food.dll
+D:\TORT-Home\homework\C#A\StackQue\EX_4_Fast Food\bin\Debug\netcoreapp2.2\EX_4_Fast Food.pdb
+D:\TORT-Home\homework\C#A\StackQue\EX_4_Fast Food\obj\Debug\netcoreapp2.2\EX_4_Fast Food.dll
+D:\TORT-Home\homework\C#A\StackQue\EX_4_Fast Food\obj\Debug\netcoreapp2.2\EX_4_Fast Food.pdb

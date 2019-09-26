@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#A\01_StackQueue\01_LAB_Stacks\bin\Debug\netcoreapp2.2\01_LAB_Stacks.deps.json
+D:\TORT-Home\homework\C#A\01_StackQueue\01_LAB_Stacks\bin\Debug\netcoreapp2.2\01_LAB_Stacks.runtimeconfig.json
+D:\TORT-Home\homework\C#A\01_StackQueue\01_LAB_Stacks\bin\Debug\netcoreapp2.2\01_LAB_Stacks.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#A\01_StackQueue\01_LAB_Stacks\bin\Debug\netcoreapp2.2\01_LAB_Stacks.dll
+D:\TORT-Home\homework\C#A\01_StackQueue\01_LAB_Stacks\bin\Debug\netcoreapp2.2\01_LAB_Stacks.pdb
+D:\TORT-Home\homework\C#A\01_StackQueue\01_LAB_Stacks\obj\Debug\netcoreapp2.2\01_LAB_Stacks.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#A\01_StackQueue\01_LAB_Stacks\obj\Debug\netcoreapp2.2\01_LAB_Stacks.csproj.CoreCompileInputs.cache
+D:\TORT-Home\homework\C#A\01_StackQueue\01_LAB_Stacks\obj\Debug\netcoreapp2.2\01_LAB_Stacks.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#A\01_StackQueue\01_LAB_Stacks\obj\Debug\netcoreapp2.2\01_LAB_Stacks.AssemblyInfo.cs
+D:\TORT-Home\homework\C#A\01_StackQueue\01_LAB_Stacks\obj\Debug\netcoreapp2.2\01_LAB_Stacks.dll
+D:\TORT-Home\homework\C#A\01_StackQueue\01_LAB_Stacks\obj\Debug\netcoreapp2.2\01_LAB_Stacks.pdb

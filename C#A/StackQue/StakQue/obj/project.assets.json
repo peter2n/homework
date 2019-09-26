@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\len\\.nuget\\packages\\": {},
+    "C:\\Users\\meAgain\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TORTOSE\\homework\\C#A\\StackQue\\StakQue\\StakQue.csproj",
+      "projectUniqueName": "D:\\TORT-Home\\homework\\C#A\\StackQue\\StakQue\\StakQue.csproj",
       "projectName": "StakQue",
-      "projectPath": "E:\\TORTOSE\\homework\\C#A\\StackQue\\StakQue\\StakQue.csproj",
-      "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
-      "outputPath": "E:\\TORTOSE\\homework\\C#A\\StackQue\\StakQue\\obj\\",
+      "projectPath": "D:\\TORT-Home\\homework\\C#A\\StackQue\\StakQue\\StakQue.csproj",
+      "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
+      "outputPath": "D:\\TORT-Home\\homework\\C#A\\StackQue\\StakQue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
