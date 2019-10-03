@@ -1,4 +1,5 @@
-﻿using System;
+﻿//namespace EX_1_DiagonalDif
+using System;
 
 namespace EX_1_DiagonalDif
 {

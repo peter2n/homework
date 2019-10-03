@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj": {}
+  },
+  "projects": {
+    "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj",
+        "projectName": "LAB_5_Square with Maximum Sum",
+        "projectPath": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj",
+        "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
+        "outputPath": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
