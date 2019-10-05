@@ -1,0 +1,10 @@
+E:\TORTOSE\homework\C#A\MultiArray\EX_8_Knight Game\obj\Debug\netcoreapp2.2\EX_8_Knight Game.csproj.CoreCompileInputs.cache
+E:\TORTOSE\homework\C#A\MultiArray\EX_8_Knight Game\obj\Debug\netcoreapp2.2\EX_8_Knight Game.AssemblyInfoInputs.cache
+E:\TORTOSE\homework\C#A\MultiArray\EX_8_Knight Game\obj\Debug\netcoreapp2.2\EX_8_Knight Game.AssemblyInfo.cs
+E:\TORTOSE\homework\C#A\MultiArray\EX_8_Knight Game\bin\Debug\netcoreapp2.2\EX_8_Knight Game.deps.json
+E:\TORTOSE\homework\C#A\MultiArray\EX_8_Knight Game\bin\Debug\netcoreapp2.2\EX_8_Knight Game.runtimeconfig.json
+E:\TORTOSE\homework\C#A\MultiArray\EX_8_Knight Game\bin\Debug\netcoreapp2.2\EX_8_Knight Game.runtimeconfig.dev.json
+E:\TORTOSE\homework\C#A\MultiArray\EX_8_Knight Game\bin\Debug\netcoreapp2.2\EX_8_Knight Game.dll
+E:\TORTOSE\homework\C#A\MultiArray\EX_8_Knight Game\bin\Debug\netcoreapp2.2\EX_8_Knight Game.pdb
+E:\TORTOSE\homework\C#A\MultiArray\EX_8_Knight Game\obj\Debug\netcoreapp2.2\EX_8_Knight Game.dll
+E:\TORTOSE\homework\C#A\MultiArray\EX_8_Knight Game\obj\Debug\netcoreapp2.2\EX_8_Knight Game.pdb

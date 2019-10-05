@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_2_Sum Matrix Columns\\LAB_2_Sum Matrix Columns.csproj": {}
+    "E:\\TORTOSE\\homework\\C#A\\MultiArray\\LAB_2_Sum Matrix Columns\\LAB_2_Sum Matrix Columns.csproj": {}
   },
   "projects": {
-    "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_2_Sum Matrix Columns\\LAB_2_Sum Matrix Columns.csproj": {
+    "E:\\TORTOSE\\homework\\C#A\\MultiArray\\LAB_2_Sum Matrix Columns\\LAB_2_Sum Matrix Columns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_2_Sum Matrix Columns\\LAB_2_Sum Matrix Columns.csproj",
+        "projectUniqueName": "E:\\TORTOSE\\homework\\C#A\\MultiArray\\LAB_2_Sum Matrix Columns\\LAB_2_Sum Matrix Columns.csproj",
         "projectName": "LAB_2_Sum Matrix Columns",
-        "projectPath": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_2_Sum Matrix Columns\\LAB_2_Sum Matrix Columns.csproj",
-        "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
-        "outputPath": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_2_Sum Matrix Columns\\obj\\",
+        "projectPath": "E:\\TORTOSE\\homework\\C#A\\MultiArray\\LAB_2_Sum Matrix Columns\\LAB_2_Sum Matrix Columns.csproj",
+        "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
+        "outputPath": "E:\\TORTOSE\\homework\\C#A\\MultiArray\\LAB_2_Sum Matrix Columns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

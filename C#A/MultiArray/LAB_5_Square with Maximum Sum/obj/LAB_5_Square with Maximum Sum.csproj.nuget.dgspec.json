@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj": {}
+    "E:\\TORTOSE\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj": {}
   },
   "projects": {
-    "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj": {
+    "E:\\TORTOSE\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj",
+        "projectUniqueName": "E:\\TORTOSE\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj",
         "projectName": "LAB_5_Square with Maximum Sum",
-        "projectPath": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj",
-        "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
-        "outputPath": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\obj\\",
+        "projectPath": "E:\\TORTOSE\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\LAB_5_Square with Maximum Sum.csproj",
+        "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
+        "outputPath": "E:\\TORTOSE\\homework\\C#A\\MultiArray\\LAB_5_Square with Maximum Sum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

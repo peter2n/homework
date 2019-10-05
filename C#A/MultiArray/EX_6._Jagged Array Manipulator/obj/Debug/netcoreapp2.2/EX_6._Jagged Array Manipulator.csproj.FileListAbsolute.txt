@@ -1,0 +1,10 @@
+E:\TORTOSE\homework\C#A\MultiArray\EX_6._Jagged Array Manipulator\obj\Debug\netcoreapp2.2\EX_6._Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+E:\TORTOSE\homework\C#A\MultiArray\EX_6._Jagged Array Manipulator\obj\Debug\netcoreapp2.2\EX_6._Jagged Array Manipulator.AssemblyInfoInputs.cache
+E:\TORTOSE\homework\C#A\MultiArray\EX_6._Jagged Array Manipulator\obj\Debug\netcoreapp2.2\EX_6._Jagged Array Manipulator.AssemblyInfo.cs
+E:\TORTOSE\homework\C#A\MultiArray\EX_6._Jagged Array Manipulator\bin\Debug\netcoreapp2.2\EX_6._Jagged Array Manipulator.deps.json
+E:\TORTOSE\homework\C#A\MultiArray\EX_6._Jagged Array Manipulator\bin\Debug\netcoreapp2.2\EX_6._Jagged Array Manipulator.runtimeconfig.json
+E:\TORTOSE\homework\C#A\MultiArray\EX_6._Jagged Array Manipulator\bin\Debug\netcoreapp2.2\EX_6._Jagged Array Manipulator.runtimeconfig.dev.json
+E:\TORTOSE\homework\C#A\MultiArray\EX_6._Jagged Array Manipulator\bin\Debug\netcoreapp2.2\EX_6._Jagged Array Manipulator.dll
+E:\TORTOSE\homework\C#A\MultiArray\EX_6._Jagged Array Manipulator\bin\Debug\netcoreapp2.2\EX_6._Jagged Array Manipulator.pdb
+E:\TORTOSE\homework\C#A\MultiArray\EX_6._Jagged Array Manipulator\obj\Debug\netcoreapp2.2\EX_6._Jagged Array Manipulator.dll
+E:\TORTOSE\homework\C#A\MultiArray\EX_6._Jagged Array Manipulator\obj\Debug\netcoreapp2.2\EX_6._Jagged Array Manipulator.pdb

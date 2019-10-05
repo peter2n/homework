@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\meAgain\\.nuget\\packages\\": {},
+    "C:\\Users\\len\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\EX_7_Bomb the Basement\\EX_7_Bomb the Basement.csproj",
+      "projectUniqueName": "E:\\TORTOSE\\homework\\C#A\\MultiArray\\EX_7_Bomb the Basement\\EX_7_Bomb the Basement.csproj",
       "projectName": "EX_7_Bomb the Basement",
-      "projectPath": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\EX_7_Bomb the Basement\\EX_7_Bomb the Basement.csproj",
-      "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
-      "outputPath": "D:\\TORT-Home\\homework\\C#A\\MultiArray\\EX_7_Bomb the Basement\\obj\\",
+      "projectPath": "E:\\TORTOSE\\homework\\C#A\\MultiArray\\EX_7_Bomb the Basement\\EX_7_Bomb the Basement.csproj",
+      "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
+      "outputPath": "E:\\TORTOSE\\homework\\C#A\\MultiArray\\EX_7_Bomb the Basement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

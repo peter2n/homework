@@ -1,0 +1,11 @@
+E:\TORTOSE\homework\C#A\MultiArray\EX_3_Maximal Sum\bin\Debug\netcoreapp2.2\EX_3_Maximal Sum.deps.json
+E:\TORTOSE\homework\C#A\MultiArray\EX_3_Maximal Sum\bin\Debug\netcoreapp2.2\EX_3_Maximal Sum.runtimeconfig.json
+E:\TORTOSE\homework\C#A\MultiArray\EX_3_Maximal Sum\bin\Debug\netcoreapp2.2\EX_3_Maximal Sum.runtimeconfig.dev.json
+E:\TORTOSE\homework\C#A\MultiArray\EX_3_Maximal Sum\bin\Debug\netcoreapp2.2\EX_3_Maximal Sum.dll
+E:\TORTOSE\homework\C#A\MultiArray\EX_3_Maximal Sum\bin\Debug\netcoreapp2.2\EX_3_Maximal Sum.pdb
+E:\TORTOSE\homework\C#A\MultiArray\EX_3_Maximal Sum\obj\Debug\netcoreapp2.2\EX_3_Maximal Sum.csprojAssemblyReference.cache
+E:\TORTOSE\homework\C#A\MultiArray\EX_3_Maximal Sum\obj\Debug\netcoreapp2.2\EX_3_Maximal Sum.csproj.CoreCompileInputs.cache
+E:\TORTOSE\homework\C#A\MultiArray\EX_3_Maximal Sum\obj\Debug\netcoreapp2.2\EX_3_Maximal Sum.AssemblyInfoInputs.cache
+E:\TORTOSE\homework\C#A\MultiArray\EX_3_Maximal Sum\obj\Debug\netcoreapp2.2\EX_3_Maximal Sum.AssemblyInfo.cs
+E:\TORTOSE\homework\C#A\MultiArray\EX_3_Maximal Sum\obj\Debug\netcoreapp2.2\EX_3_Maximal Sum.dll
+E:\TORTOSE\homework\C#A\MultiArray\EX_3_Maximal Sum\obj\Debug\netcoreapp2.2\EX_3_Maximal Sum.pdb
