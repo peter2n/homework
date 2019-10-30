@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#OOP\P03_StudentSystem\bin\Debug\netcoreapp2.0\LAB_3_P03_StudentSystem.deps.json
+D:\TORT-Home\homework\C#OOP\P03_StudentSystem\bin\Debug\netcoreapp2.0\LAB_3_P03_StudentSystem.runtimeconfig.json
+D:\TORT-Home\homework\C#OOP\P03_StudentSystem\bin\Debug\netcoreapp2.0\LAB_3_P03_StudentSystem.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#OOP\P03_StudentSystem\bin\Debug\netcoreapp2.0\LAB_3_P03_StudentSystem.dll
+D:\TORT-Home\homework\C#OOP\P03_StudentSystem\bin\Debug\netcoreapp2.0\LAB_3_P03_StudentSystem.pdb
+D:\TORT-Home\homework\C#OOP\P03_StudentSystem\obj\Debug\netcoreapp2.0\LAB_3_P03_StudentSystem.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#OOP\P03_StudentSystem\obj\Debug\netcoreapp2.0\LAB_3_P03_StudentSystem.csproj.CoreCompileInputs.cache
+D:\TORT-Home\homework\C#OOP\P03_StudentSystem\obj\Debug\netcoreapp2.0\LAB_3_P03_StudentSystem.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#OOP\P03_StudentSystem\obj\Debug\netcoreapp2.0\LAB_3_P03_StudentSystem.AssemblyInfo.cs
+D:\TORT-Home\homework\C#OOP\P03_StudentSystem\obj\Debug\netcoreapp2.0\LAB_3_P03_StudentSystem.dll
+D:\TORT-Home\homework\C#OOP\P03_StudentSystem\obj\Debug\netcoreapp2.0\LAB_3_P03_StudentSystem.pdb
