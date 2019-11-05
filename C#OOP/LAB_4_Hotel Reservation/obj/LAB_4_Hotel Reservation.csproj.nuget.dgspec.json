@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TORT-Home\\homework\\C#OOP\\LAB_4_Hotel Reservation\\LAB_4_Hotel Reservation.csproj": {}
+  },
+  "projects": {
+    "D:\\TORT-Home\\homework\\C#OOP\\LAB_4_Hotel Reservation\\LAB_4_Hotel Reservation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TORT-Home\\homework\\C#OOP\\LAB_4_Hotel Reservation\\LAB_4_Hotel Reservation.csproj",
+        "projectName": "LAB_4_Hotel Reservation",
+        "projectPath": "D:\\TORT-Home\\homework\\C#OOP\\LAB_4_Hotel Reservation\\LAB_4_Hotel Reservation.csproj",
+        "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
+        "outputPath": "D:\\TORT-Home\\homework\\C#OOP\\LAB_4_Hotel Reservation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

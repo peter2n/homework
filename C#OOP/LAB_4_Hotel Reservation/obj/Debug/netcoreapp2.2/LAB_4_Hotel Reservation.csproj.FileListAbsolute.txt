@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#OOP\LAB_4_Hotel Reservation\bin\Debug\netcoreapp2.2\LAB_4_Hotel Reservation.deps.json
+D:\TORT-Home\homework\C#OOP\LAB_4_Hotel Reservation\bin\Debug\netcoreapp2.2\LAB_4_Hotel Reservation.runtimeconfig.json
+D:\TORT-Home\homework\C#OOP\LAB_4_Hotel Reservation\bin\Debug\netcoreapp2.2\LAB_4_Hotel Reservation.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#OOP\LAB_4_Hotel Reservation\bin\Debug\netcoreapp2.2\LAB_4_Hotel Reservation.dll
+D:\TORT-Home\homework\C#OOP\LAB_4_Hotel Reservation\bin\Debug\netcoreapp2.2\LAB_4_Hotel Reservation.pdb
+D:\TORT-Home\homework\C#OOP\LAB_4_Hotel Reservation\obj\Debug\netcoreapp2.2\LAB_4_Hotel Reservation.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#OOP\LAB_4_Hotel Reservation\obj\Debug\netcoreapp2.2\LAB_4_Hotel Reservation.csproj.CoreCompileInputs.cache
+D:\TORT-Home\homework\C#OOP\LAB_4_Hotel Reservation\obj\Debug\netcoreapp2.2\LAB_4_Hotel Reservation.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#OOP\LAB_4_Hotel Reservation\obj\Debug\netcoreapp2.2\LAB_4_Hotel Reservation.AssemblyInfo.cs
+D:\TORT-Home\homework\C#OOP\LAB_4_Hotel Reservation\obj\Debug\netcoreapp2.2\LAB_4_Hotel Reservation.dll
+D:\TORT-Home\homework\C#OOP\LAB_4_Hotel Reservation\obj\Debug\netcoreapp2.2\LAB_4_Hotel Reservation.pdb
