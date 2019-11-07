@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TORT-Home\\homework\\C#OOP\\P01_RawData\\P01_RawData.csproj": {}
+    "E:\\TORTOSE\\homework\\C#OOP\\P01_RawData\\P01_RawData.csproj": {}
   },
   "projects": {
-    "D:\\TORT-Home\\homework\\C#OOP\\P01_RawData\\P01_RawData.csproj": {
+    "E:\\TORTOSE\\homework\\C#OOP\\P01_RawData\\P01_RawData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TORT-Home\\homework\\C#OOP\\P01_RawData\\P01_RawData.csproj",
+        "projectUniqueName": "E:\\TORTOSE\\homework\\C#OOP\\P01_RawData\\P01_RawData.csproj",
         "projectName": "P01_RawData",
-        "projectPath": "D:\\TORT-Home\\homework\\C#OOP\\P01_RawData\\P01_RawData.csproj",
-        "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
-        "outputPath": "D:\\TORT-Home\\homework\\C#OOP\\P01_RawData\\obj\\",
+        "projectPath": "E:\\TORTOSE\\homework\\C#OOP\\P01_RawData\\P01_RawData.csproj",
+        "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
+        "outputPath": "E:\\TORTOSE\\homework\\C#OOP\\P01_RawData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,16 +49,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }

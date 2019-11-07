@@ -6,20 +6,23 @@ namespace P01_RawData
 {
     class Car
     {
-        public Car(string model, Engine engine, Cargo cargo, Tire tire1, Tire tire2, Tire tire3, Tire tire4)
+        public Car(string model, Engine engine, Cargo cargo, Tire[] tires)
         {
             this.Model = model;
+            this.Cargo = cargo;
 
-
+            this.Tires =tires;
+            this.Engine = engine;
 
         }
 
+        public Cargo Cargo { get; set; }
 
-
-
+        public Tire[] Tires { get; set; }
         public string Model { get; set; }
-        internal Engine Engine { get => engine.EnginePower ; set => engine = value; }
 
-        private Engine engine;
+        public Engine Engine { get; set; }
+
+
     }
 }

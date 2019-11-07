@@ -1,0 +1,11 @@
+E:\TORTOSE\homework\C#OOP\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+E:\TORTOSE\homework\C#OOP\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+E:\TORTOSE\homework\C#OOP\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+E:\TORTOSE\homework\C#OOP\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+E:\TORTOSE\homework\C#OOP\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+E:\TORTOSE\homework\C#OOP\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojAssemblyReference.cache
+E:\TORTOSE\homework\C#OOP\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+E:\TORTOSE\homework\C#OOP\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+E:\TORTOSE\homework\C#OOP\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+E:\TORTOSE\homework\C#OOP\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+E:\TORTOSE\homework\C#OOP\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb

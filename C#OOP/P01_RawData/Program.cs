@@ -15,10 +15,15 @@ namespace P01_RawData
             {
                 string[] parameters = Console.ReadLine().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
                 string model = parameters[0];
+
                 int engineSpeed = int.Parse(parameters[1]);
                 int enginePower = int.Parse(parameters[2]);
+                Engine engine = new Engine(engineSpeed, enginePower);
+
                 int cargoWeight = int.Parse(parameters[3]);
                 string cargoType = parameters[4];
+                Cargo cargo = new Cargo(cargoWeight, cargoType);
+
                 double tire1Pressure = double.Parse(parameters[5]);
                 int tire1age = int.Parse(parameters[6]);
                 double tire2Pressure = double.Parse(parameters[7]);
@@ -27,29 +32,21 @@ namespace P01_RawData
                 int tire3age = int.Parse(parameters[10]);
                 double tire4Pressure = double.Parse(parameters[11]);
                 int tire4age = int.Parse(parameters[12]);
+                Tire[] tires = new Tire[4];
+                tires[0] = new Tire(tire1age, tire1Pressure);
+                tires[1] = new Tire(tire2age, tire2Pressure);
+                tires[2] = new Tire(tire3age, tire3Pressure);
+                tires[3] = new Tire(tire4age, tire4Pressure);
 
-                Engine engine = new Engine(engineSpeed, enginePower);
-                Cargo cargo = new Cargo(cargoWeight, cargoType);
-                //List<Tire> tires = new List<Tire>();
-                //tires.Add(new Tire(tire1age,  tire1Pressure));
-                //tires.Add(new Tire(tire2age, tire2Pressure));
-                //tires.Add(new Tire(tire3age, tire3Pressure));
-                //tires.Add(new Tire(tire4age, tire4Pressure));
-
-                Tire tire1 = new Tire(tire1age, tire1Pressure);
-                Tire tire2 = new Tire(tire2age, tire2Pressure);
-                Tire tire3 = new Tire(tire3age, tire3Pressure);
-                Tire tire4 = new Tire(tire4age, tire4Pressure);
-
-                cars.Add(new Car(model, engine, cargo, tire1, tire2, tire3, tire4));
+                cars.Add(new Car(model, engine, cargo, tires));
             }
-
+            
             string command = Console.ReadLine();
             if (command == "fragile")
             {
                 List<string> fragile = cars
-                    .Where(x => x.cargoType == "fragile" && x.tires.Any(y => y.Key < 1))
-                    .Select(x => x.model)
+                    .Where(x => x.Cargo.CargoType == "fragile" && x.Tires.Any(y => y.TirePressure < 1))
+                    .Select(x => x.Model)
                     .ToList();
 
                 Console.WriteLine(string.Join(Environment.NewLine, fragile));
@@ -57,8 +54,8 @@ namespace P01_RawData
             else
             {
                 List<string> flamable = cars
-                    .Where(x => x.cargoType == "flamable" && x.enginePower > 250)
-                    .Select(x => x.model)
+                    .Where(x => x.Cargo.CargoType == "flamable" && x.Engine.EnginePower > 250)
+                    .Select(x => x.Model)
                     .ToList();
 
                 Console.WriteLine(string.Join(Environment.NewLine, flamable));
