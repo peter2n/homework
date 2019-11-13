@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_2_Multiple Inheritance\bin\Debug\netcoreapp3.0\LAB_2_Multiple Inheritance.exe
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_2_Multiple Inheritance\bin\Debug\netcoreapp3.0\LAB_2_Multiple Inheritance.deps.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_2_Multiple Inheritance\bin\Debug\netcoreapp3.0\LAB_2_Multiple Inheritance.runtimeconfig.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_2_Multiple Inheritance\bin\Debug\netcoreapp3.0\LAB_2_Multiple Inheritance.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_2_Multiple Inheritance\bin\Debug\netcoreapp3.0\LAB_2_Multiple Inheritance.dll
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_2_Multiple Inheritance\bin\Debug\netcoreapp3.0\LAB_2_Multiple Inheritance.pdb
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_2_Multiple Inheritance\obj\Debug\netcoreapp3.0\LAB_2_Multiple Inheritance.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_2_Multiple Inheritance\obj\Debug\netcoreapp3.0\LAB_2_Multiple Inheritance.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_2_Multiple Inheritance\obj\Debug\netcoreapp3.0\LAB_2_Multiple Inheritance.AssemblyInfo.cs
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_2_Multiple Inheritance\obj\Debug\netcoreapp3.0\LAB_2_Multiple Inheritance.dll
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_2_Multiple Inheritance\obj\Debug\netcoreapp3.0\LAB_2_Multiple Inheritance.pdb

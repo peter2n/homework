@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_1_Single Inheritance\bin\Debug\netcoreapp3.0\LAB_1_Single Inheritance.exe
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_1_Single Inheritance\bin\Debug\netcoreapp3.0\LAB_1_Single Inheritance.deps.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_1_Single Inheritance\bin\Debug\netcoreapp3.0\LAB_1_Single Inheritance.runtimeconfig.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_1_Single Inheritance\bin\Debug\netcoreapp3.0\LAB_1_Single Inheritance.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_1_Single Inheritance\bin\Debug\netcoreapp3.0\LAB_1_Single Inheritance.dll
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_1_Single Inheritance\bin\Debug\netcoreapp3.0\LAB_1_Single Inheritance.pdb
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_1_Single Inheritance\obj\Debug\netcoreapp3.0\LAB_1_Single Inheritance.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_1_Single Inheritance\obj\Debug\netcoreapp3.0\LAB_1_Single Inheritance.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_1_Single Inheritance\obj\Debug\netcoreapp3.0\LAB_1_Single Inheritance.AssemblyInfo.cs
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_1_Single Inheritance\obj\Debug\netcoreapp3.0\LAB_1_Single Inheritance.dll
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_1_Single Inheritance\obj\Debug\netcoreapp3.0\LAB_1_Single Inheritance.pdb

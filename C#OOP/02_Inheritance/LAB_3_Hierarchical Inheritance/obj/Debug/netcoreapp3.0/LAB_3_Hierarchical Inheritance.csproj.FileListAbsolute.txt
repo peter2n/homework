@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_3_Hierarchical Inheritance\bin\Debug\netcoreapp3.0\LAB_3_Hierarchical Inheritance.exe
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_3_Hierarchical Inheritance\bin\Debug\netcoreapp3.0\LAB_3_Hierarchical Inheritance.deps.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_3_Hierarchical Inheritance\bin\Debug\netcoreapp3.0\LAB_3_Hierarchical Inheritance.runtimeconfig.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_3_Hierarchical Inheritance\bin\Debug\netcoreapp3.0\LAB_3_Hierarchical Inheritance.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_3_Hierarchical Inheritance\bin\Debug\netcoreapp3.0\LAB_3_Hierarchical Inheritance.dll
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_3_Hierarchical Inheritance\bin\Debug\netcoreapp3.0\LAB_3_Hierarchical Inheritance.pdb
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_3_Hierarchical Inheritance\obj\Debug\netcoreapp3.0\LAB_3_Hierarchical Inheritance.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_3_Hierarchical Inheritance\obj\Debug\netcoreapp3.0\LAB_3_Hierarchical Inheritance.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_3_Hierarchical Inheritance\obj\Debug\netcoreapp3.0\LAB_3_Hierarchical Inheritance.AssemblyInfo.cs
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_3_Hierarchical Inheritance\obj\Debug\netcoreapp3.0\LAB_3_Hierarchical Inheritance.dll
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_3_Hierarchical Inheritance\obj\Debug\netcoreapp3.0\LAB_3_Hierarchical Inheritance.pdb

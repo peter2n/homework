@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_4_Random List\bin\Debug\netcoreapp3.0\LAB_4_Random List.exe
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_4_Random List\bin\Debug\netcoreapp3.0\LAB_4_Random List.deps.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_4_Random List\bin\Debug\netcoreapp3.0\LAB_4_Random List.runtimeconfig.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_4_Random List\bin\Debug\netcoreapp3.0\LAB_4_Random List.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_4_Random List\bin\Debug\netcoreapp3.0\LAB_4_Random List.dll
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_4_Random List\bin\Debug\netcoreapp3.0\LAB_4_Random List.pdb
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_4_Random List\obj\Debug\netcoreapp3.0\LAB_4_Random List.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_4_Random List\obj\Debug\netcoreapp3.0\LAB_4_Random List.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_4_Random List\obj\Debug\netcoreapp3.0\LAB_4_Random List.AssemblyInfo.cs
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_4_Random List\obj\Debug\netcoreapp3.0\LAB_4_Random List.dll
+D:\TORT-Home\homework\C#OOP\02_Inheritance\LAB_4_Random List\obj\Debug\netcoreapp3.0\LAB_4_Random List.pdb
