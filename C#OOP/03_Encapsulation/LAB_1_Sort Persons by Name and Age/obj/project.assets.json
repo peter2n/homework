@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\meAgain\\.nuget\\packages\\": {},
+    "C:\\Users\\len\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TORT-Home\\homework\\C#OOP\\03_Encapsulation\\LAB_1_Sort Persons by Name and Age\\LAB_1_Sort_Persons_by_Name_and_Age.csproj",
+      "projectUniqueName": "E:\\TORTOSE\\homework\\C#OOP\\03_Encapsulation\\LAB_1_Sort Persons by Name and Age\\LAB_1_Sort_Persons_by_Name_and_Age.csproj",
       "projectName": "LAB_1_Sort_Persons_by_Name_and_Age",
-      "projectPath": "D:\\TORT-Home\\homework\\C#OOP\\03_Encapsulation\\LAB_1_Sort Persons by Name and Age\\LAB_1_Sort_Persons_by_Name_and_Age.csproj",
-      "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
-      "outputPath": "D:\\TORT-Home\\homework\\C#OOP\\03_Encapsulation\\LAB_1_Sort Persons by Name and Age\\obj\\",
+      "projectPath": "E:\\TORTOSE\\homework\\C#OOP\\03_Encapsulation\\LAB_1_Sort Persons by Name and Age\\LAB_1_Sort_Persons_by_Name_and_Age.csproj",
+      "packagesPath": "C:\\Users\\len\\.nuget\\packages\\",
+      "outputPath": "E:\\TORTOSE\\homework\\C#OOP\\03_Encapsulation\\LAB_1_Sort Persons by Name and Age\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\meAgain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\len\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

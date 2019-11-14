@@ -1,0 +1,10 @@
+E:\TORTOSE\homework\C#OOP\03_Encapsulation\EX_1_Class Box Data\bin\Debug\netcoreapp2.2\EX_1_Class Box Data.deps.json
+E:\TORTOSE\homework\C#OOP\03_Encapsulation\EX_1_Class Box Data\bin\Debug\netcoreapp2.2\EX_1_Class Box Data.runtimeconfig.json
+E:\TORTOSE\homework\C#OOP\03_Encapsulation\EX_1_Class Box Data\bin\Debug\netcoreapp2.2\EX_1_Class Box Data.runtimeconfig.dev.json
+E:\TORTOSE\homework\C#OOP\03_Encapsulation\EX_1_Class Box Data\bin\Debug\netcoreapp2.2\EX_1_Class Box Data.dll
+E:\TORTOSE\homework\C#OOP\03_Encapsulation\EX_1_Class Box Data\bin\Debug\netcoreapp2.2\EX_1_Class Box Data.pdb
+E:\TORTOSE\homework\C#OOP\03_Encapsulation\EX_1_Class Box Data\obj\Debug\netcoreapp2.2\EX_1_Class Box Data.csprojAssemblyReference.cache
+E:\TORTOSE\homework\C#OOP\03_Encapsulation\EX_1_Class Box Data\obj\Debug\netcoreapp2.2\EX_1_Class Box Data.AssemblyInfoInputs.cache
+E:\TORTOSE\homework\C#OOP\03_Encapsulation\EX_1_Class Box Data\obj\Debug\netcoreapp2.2\EX_1_Class Box Data.AssemblyInfo.cs
+E:\TORTOSE\homework\C#OOP\03_Encapsulation\EX_1_Class Box Data\obj\Debug\netcoreapp2.2\EX_1_Class Box Data.dll
+E:\TORTOSE\homework\C#OOP\03_Encapsulation\EX_1_Class Box Data\obj\Debug\netcoreapp2.2\EX_1_Class Box Data.pdb

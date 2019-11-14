@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_1_Sort_Persons_by_Name_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_3_Validation", "LAB_3_Validation\LAB_3_Validation.csproj", "{5316BDA7-F266-4B0B-95B3-D31200B2578D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EX_1_ClassBoxData", "EX_1_Class Box Data\EX_1_ClassBoxData.csproj", "{4D9EB5F1-48AA-4EF7-9F11-91C6DF1881F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5316BDA7-F266-4B0B-95B3-D31200B2578D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5316BDA7-F266-4B0B-95B3-D31200B2578D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5316BDA7-F266-4B0B-95B3-D31200B2578D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D9EB5F1-48AA-4EF7-9F11-91C6DF1881F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9EB5F1-48AA-4EF7-9F11-91C6DF1881F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9EB5F1-48AA-4EF7-9F11-91C6DF1881F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9EB5F1-48AA-4EF7-9F11-91C6DF1881F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
