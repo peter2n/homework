@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB_1_Sort Persons by Name and Age", "LAB_1_Sort Persons by Name and Age\LAB_1_Sort Persons by Name and Age.csproj", "{1D9E15D8-41B5-4DF1-B931-56FF13F6A64C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_1_Sort_Persons_by_Name_and_Age", "LAB_1_Sort Persons by Name and Age\LAB_1_Sort_Persons_by_Name_and_Age.csproj", "{1D9E15D8-41B5-4DF1-B931-56FF13F6A64C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_3_Validation", "LAB_3_Validation\LAB_3_Validation.csproj", "{5316BDA7-F266-4B0B-95B3-D31200B2578D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1D9E15D8-41B5-4DF1-B931-56FF13F6A64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D9E15D8-41B5-4DF1-B931-56FF13F6A64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D9E15D8-41B5-4DF1-B931-56FF13F6A64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5316BDA7-F266-4B0B-95B3-D31200B2578D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5316BDA7-F266-4B0B-95B3-D31200B2578D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5316BDA7-F266-4B0B-95B3-D31200B2578D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5316BDA7-F266-4B0B-95B3-D31200B2578D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TORT-Home\\homework\\C#OOP\\03_Encapsulation\\LAB_1_Sort Persons by Name and Age\\LAB_1_Sort_Persons_by_Name_and_Age.csproj",
-      "projectName": "LAB_1_Sort_Persons_by_Name_and_Age",
-      "projectPath": "D:\\TORT-Home\\homework\\C#OOP\\03_Encapsulation\\LAB_1_Sort Persons by Name and Age\\LAB_1_Sort_Persons_by_Name_and_Age.csproj",
+      "projectUniqueName": "D:\\TORT-Home\\homework\\C#OOP\\03_Encapsulation\\LAB_3_Validation\\LAB_3_Validation.csproj",
+      "projectName": "LAB_3_Validation",
+      "projectPath": "D:\\TORT-Home\\homework\\C#OOP\\03_Encapsulation\\LAB_3_Validation\\LAB_3_Validation.csproj",
       "packagesPath": "C:\\Users\\meAgain\\.nuget\\packages\\",
-      "outputPath": "D:\\TORT-Home\\homework\\C#OOP\\03_Encapsulation\\LAB_1_Sort Persons by Name and Age\\obj\\",
+      "outputPath": "D:\\TORT-Home\\homework\\C#OOP\\03_Encapsulation\\LAB_3_Validation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

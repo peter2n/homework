@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_3_Validation\bin\Debug\netcoreapp3.0\LAB_3_Validation.exe
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_3_Validation\bin\Debug\netcoreapp3.0\LAB_3_Validation.deps.json
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_3_Validation\bin\Debug\netcoreapp3.0\LAB_3_Validation.runtimeconfig.json
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_3_Validation\bin\Debug\netcoreapp3.0\LAB_3_Validation.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_3_Validation\bin\Debug\netcoreapp3.0\LAB_3_Validation.dll
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_3_Validation\bin\Debug\netcoreapp3.0\LAB_3_Validation.pdb
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_3_Validation\obj\Debug\netcoreapp3.0\LAB_3_Validation.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_3_Validation\obj\Debug\netcoreapp3.0\LAB_3_Validation.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_3_Validation\obj\Debug\netcoreapp3.0\LAB_3_Validation.AssemblyInfo.cs
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_3_Validation\obj\Debug\netcoreapp3.0\LAB_3_Validation.dll
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_3_Validation\obj\Debug\netcoreapp3.0\LAB_3_Validation.pdb

@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_1_Sort Persons by Name and Age\bin\Debug\netcoreapp3.0\LAB_1_Sort_Persons_by_Name_and_Age.exe
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_1_Sort Persons by Name and Age\bin\Debug\netcoreapp3.0\LAB_1_Sort_Persons_by_Name_and_Age.deps.json
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_1_Sort Persons by Name and Age\bin\Debug\netcoreapp3.0\LAB_1_Sort_Persons_by_Name_and_Age.runtimeconfig.json
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_1_Sort Persons by Name and Age\bin\Debug\netcoreapp3.0\LAB_1_Sort_Persons_by_Name_and_Age.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_1_Sort Persons by Name and Age\bin\Debug\netcoreapp3.0\LAB_1_Sort_Persons_by_Name_and_Age.dll
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_1_Sort Persons by Name and Age\bin\Debug\netcoreapp3.0\LAB_1_Sort_Persons_by_Name_and_Age.pdb
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_1_Sort Persons by Name and Age\obj\Debug\netcoreapp3.0\LAB_1_Sort_Persons_by_Name_and_Age.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_1_Sort Persons by Name and Age\obj\Debug\netcoreapp3.0\LAB_1_Sort_Persons_by_Name_and_Age.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_1_Sort Persons by Name and Age\obj\Debug\netcoreapp3.0\LAB_1_Sort_Persons_by_Name_and_Age.AssemblyInfo.cs
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_1_Sort Persons by Name and Age\obj\Debug\netcoreapp3.0\LAB_1_Sort_Persons_by_Name_and_Age.dll
+D:\TORT-Home\homework\C#OOP\03_Encapsulation\LAB_1_Sort Persons by Name and Age\obj\Debug\netcoreapp3.0\LAB_1_Sort_Persons_by_Name_and_Age.pdb
