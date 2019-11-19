@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#OOP\Interfaces\Cars\bin\Debug\netcoreapp3.0\Cars.exe
+D:\TORT-Home\homework\C#OOP\Interfaces\Cars\bin\Debug\netcoreapp3.0\Cars.deps.json
+D:\TORT-Home\homework\C#OOP\Interfaces\Cars\bin\Debug\netcoreapp3.0\Cars.runtimeconfig.json
+D:\TORT-Home\homework\C#OOP\Interfaces\Cars\bin\Debug\netcoreapp3.0\Cars.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#OOP\Interfaces\Cars\bin\Debug\netcoreapp3.0\Cars.dll
+D:\TORT-Home\homework\C#OOP\Interfaces\Cars\bin\Debug\netcoreapp3.0\Cars.pdb
+D:\TORT-Home\homework\C#OOP\Interfaces\Cars\obj\Debug\netcoreapp3.0\Cars.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#OOP\Interfaces\Cars\obj\Debug\netcoreapp3.0\Cars.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#OOP\Interfaces\Cars\obj\Debug\netcoreapp3.0\Cars.AssemblyInfo.cs
+D:\TORT-Home\homework\C#OOP\Interfaces\Cars\obj\Debug\netcoreapp3.0\Cars.dll
+D:\TORT-Home\homework\C#OOP\Interfaces\Cars\obj\Debug\netcoreapp3.0\Cars.pdb

@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#OOP\Shapes\Shapes\bin\Debug\netcoreapp3.0\Shapes.exe
+D:\TORT-Home\homework\C#OOP\Shapes\Shapes\bin\Debug\netcoreapp3.0\Shapes.deps.json
+D:\TORT-Home\homework\C#OOP\Shapes\Shapes\bin\Debug\netcoreapp3.0\Shapes.runtimeconfig.json
+D:\TORT-Home\homework\C#OOP\Shapes\Shapes\bin\Debug\netcoreapp3.0\Shapes.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#OOP\Shapes\Shapes\bin\Debug\netcoreapp3.0\Shapes.dll
+D:\TORT-Home\homework\C#OOP\Shapes\Shapes\bin\Debug\netcoreapp3.0\Shapes.pdb
+D:\TORT-Home\homework\C#OOP\Shapes\Shapes\obj\Debug\netcoreapp3.0\Shapes.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#OOP\Shapes\Shapes\obj\Debug\netcoreapp3.0\Shapes.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#OOP\Shapes\Shapes\obj\Debug\netcoreapp3.0\Shapes.AssemblyInfo.cs
+D:\TORT-Home\homework\C#OOP\Shapes\Shapes\obj\Debug\netcoreapp3.0\Shapes.dll
+D:\TORT-Home\homework\C#OOP\Shapes\Shapes\obj\Debug\netcoreapp3.0\Shapes.pdb

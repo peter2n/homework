@@ -1,0 +1,11 @@
+D:\TORT-Home\homework\C#OOP\Interfaces\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.exe
+D:\TORT-Home\homework\C#OOP\Interfaces\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.deps.json
+D:\TORT-Home\homework\C#OOP\Interfaces\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.json
+D:\TORT-Home\homework\C#OOP\Interfaces\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.dev.json
+D:\TORT-Home\homework\C#OOP\Interfaces\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.dll
+D:\TORT-Home\homework\C#OOP\Interfaces\PersonInfo\bin\Debug\netcoreapp3.0\PersonInfo.pdb
+D:\TORT-Home\homework\C#OOP\Interfaces\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.csprojAssemblyReference.cache
+D:\TORT-Home\homework\C#OOP\Interfaces\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.AssemblyInfoInputs.cache
+D:\TORT-Home\homework\C#OOP\Interfaces\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.AssemblyInfo.cs
+D:\TORT-Home\homework\C#OOP\Interfaces\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.dll
+D:\TORT-Home\homework\C#OOP\Interfaces\PersonInfo\obj\Debug\netcoreapp3.0\PersonInfo.pdb
